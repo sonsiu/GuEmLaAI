@@ -1,0 +1,177 @@
+﻿@model dynamic
+@{
+    Layout = null;
+    string displayName = Model.DisplayName ?? Model.Email ?? "User";
+    int itemCount = Model.ItemCount ?? 0;
+    int outfitCount = Model.OutfitCount ?? 0;
+    int eventCount = Model.EventCount ?? 0;
+    string todayDate = Model.TodayDate ?? "Today";
+    string currentYear = Model.CurrentYear ?? System.DateTime.UtcNow.Year.ToString();
+}
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Your Daily Calendar Reminder</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f7;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 30px auto;
+            background: #ffffff;
+            border-radius: 6px;
+            overflow: hidden;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+        }
+
+        .header {
+            padding: 20px;
+            text-align: center;
+            background: #0b79d0;
+            color: #fff;
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: #e0e7ff;
+            margin-top: 8px;
+        }
+
+        .content {
+            padding: 24px;
+            line-height: 1.6;
+        }
+
+        .summary-box {
+            background: #f0f7ff;
+            border-left: 4px solid #0b79d0;
+            padding: 16px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .summary-item {
+            margin: 8px 0;
+            display: flex;
+            align-items: center;
+        }
+
+        .summary-icon {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            margin-right: 12px;
+            text-align: center;
+            line-height: 24px;
+            font-weight: bold;
+            color: #0b79d0;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            margin: 16px 0;
+        }
+
+        .btn-view-calendar {
+            background: #0b79d0;
+            color: #ffffff;
+        }
+
+        .muted {
+            color: #6b7280;
+            font-size: 13px;
+        }
+
+        .footer {
+            padding: 16px 24px;
+            font-size: 12px;
+            color: #909090;
+            text-align: center;
+            border-top: 1px solid #e5e7eb;
+        }
+
+        @@media (max-width:480px) {
+            .container {
+                margin: 12px;
+            }
+            .summary-box {
+                padding: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container" role="article" aria-roledescription="email">
+        <div class="header">
+            <h1 style="margin:0; font-size:20px;"> Your Daily Calendar Reminder</h1>
+        </div>
+
+        <div class="content">
+            <p>Hi <strong>@(Model?.DisplayName ?? Model?.Email ?? "User")</strong>,</p>
+
+            <p>Here's a quick summary of what's scheduled for today:</p>
+
+            <div class="summary-box">
+                @if (itemCount > 0)
+                {
+                    <div class="summary-item">
+                        <span>- You have <strong>@itemCount</strong> garment@(itemCount != 1 ? "s" : "") planned</span>
+                    </div>
+                }
+
+                @if (outfitCount > 0)
+                {
+                    <div class="summary-item">
+                        <span>- You have <strong>@outfitCount</strong> outfit@(outfitCount != 1 ? "s" : "") ready</span>
+                    </div>
+                }
+
+                @if (eventCount > 0)
+                {
+                    <div class="summary-item">
+                        <span>- You have <strong>@eventCount</strong> event@(eventCount != 1 ? "s" : "") today</span>
+                    </div>
+                }
+
+                @if (itemCount == 0 && outfitCount == 0 && eventCount == 0)
+                {
+                    <div class="summary-item">
+                        <span>- You have no items or events scheduled</span>
+                    </div>
+                }
+            </div>
+
+            <p style="text-align:center; margin:22px 0;">
+                <a href="https://guemlaai.site" class="button btn-view-calendar" target="_blank" rel="noopener">View Your Calendar</a>
+            </p>
+
+            <p class="muted">
+                Don't forget to check your calendar in the GuEmLaAI app to manage your wardrobe and events for today!
+            </p>
+
+            <hr />
+
+            <p>Best regards,<br /><strong>The GuEmLaAI Team</strong></p>
+        </div>
+
+        <div class="footer">
+            <div>GuEmLaAI • <span>@(Model.CurrentYear ?? System.DateTime.UtcNow.ToString("yyyy"))</span></div>
+            <p style="margin: 8px 0 0 0; font-size: 11px;">
+                This is an automated reminder from your GuEmLaAI account.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

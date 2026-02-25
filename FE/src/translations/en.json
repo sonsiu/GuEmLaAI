@@ -1,0 +1,1874 @@
+{
+  "sidebar": {
+    "home": "Home",
+    "tryOn": "Try-On",
+    "outfitSuggest": "Outfit Suggest",
+    "wardrobe": "Wardrobe",
+    "calendar": "Calendar",
+    "referral": "Referral",
+    "faq": "FAQ",
+    "dashboard": "Dashboard",
+    "userManagement": "User Management",
+    "publicCollection": "Public Collection",
+    "httpLogging": "HTTP Logging",
+    "globalNotifications": "Global Notifications"
+  },
+  "landing": {
+    "hero": {
+      "title1": "Dress with",
+      "title2": "confidence",
+      "subtitle": "Your personal AI stylist that truly gets you - from the clothes in your closet to the looks you love.",
+      "signIn": "Sign in",
+      "signUp": "Sign up"
+    },
+    "talkToAI": {
+      "title": "Talk to GuEmLaAI",
+      "subtitle": "Get the perfect look",
+      "description": "Tell GuEmLaAI your plans, GuEmLaAI picks the ideal outfit. And you can adjust it until it's just right.",
+      "outfitCaption": "Outfit for Capstone Defence"
+    },
+    "wardrobe": {
+      "title": "Rediscover your wardrobe",
+      "subtitle": "See all your clothes in one place.",
+      "description": "Using AI-enhanced technology to get the best images of your outfits."
+    },
+    "tryOn": {
+      "title": "Try it on your avatar",
+      "subtitle": "See how to style potential new pieces with your closet."
+    },
+    "trending": {
+      "title": "Setting the trend",
+      "subtitle": "Join the world's most stylish people using GuEmLaAI !"
+    },
+    "styleGoal": {
+      "title1": "What's your",
+      "title2": "style goal?",
+      "option1": "Plan my outfits better",
+      "option2": "Look professional at work",
+      "option3": "Expand my wardrobe",
+      "option4": "Evolve my style",
+      "option5": "Wear my clothes more"
+    },
+    "footer": {
+      "privacyPolicy": "Privacy Policy",
+      "terms": "Terms"
+    }
+  },
+  "home": {
+    "heroBanner": {
+      "aiPowered": "AI-Powered",
+      "fashionStudio": "Fashion Studio",
+      "subtitle": "Transform your wardrobe with cutting-edge AI technology",
+      "description": "Try clothes virtually, generate outfit ideas, and manage your digital wardrobe all in one place. Experience the future of fashion with our AI-powered platform."
+    },
+    "publicCollections": {
+      "title": "Public Collections",
+      "subtitle": "Explore curated outfit collections from our community",
+      "searchPlaceholder": "Search collections...",
+      "collectionsFound": "collections found",
+      "tryOnAll": "Try On All",
+      "itemsCount": "Items ({{count}})",
+      "noItemsToDisplay": "No items to display",
+      "noResultsSearch": "No collections found matching your search",
+      "noCollectionsAvailable": "No public collections available yet"
+    }
+  },
+  "common": {
+    "congratulations": "Congratulations 🎉",
+    "bestSeller": "Best Seller",
+    "totalOrders": "Total Orders",
+    "totalRevenue": "Total Revenue",
+    "totalShops": "Total Shops",
+    "userOrders": "User Orders",
+    "conversionRate": "Conversion Rate",
+    "searching": "Searching for {value}",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "add": "Add",
+    "update": "Update",
+    "back": "Back",
+    "upload": "Upload",
+    "retry": "Retry",
+    "characters": "characters",
+    "loading": "Loading...",
+    "next": "Next",
+    "previous": "Previous",
+    "done": "Done",
+    "saving": "Saving...",
+    "goToAddItem": "Go to Add Item",
+    "goToTryOn": "Go to Try-On",
+    "goToOutfit": "Go to Add Outfit"
+  },
+  "menubar": {
+    "dashboard": "Dashboard",
+    "about": "About",
+    "analytics": "Analytics",
+    "crm": "CRM"
+  },
+  "validation": {
+    "required": "{field} is required",
+    "min": "{field} must be at least {value} characters",
+    "max": "{field} must not exceed {value} characters",
+    "minNumber": "{field} must be at least {value}",
+    "maxNumber": "{field} must not exceed {value}",
+    "email": "Invalid email format",
+    "date": "Invalid date format",
+    "pattern": "Invalid {field} format"
+  },
+  "table": {
+    "header": {
+      "username": "Username",
+      "email": "Email",
+      "phone": "Phone",
+      "status": "Status",
+      "action": "Action"
+    },
+    "noData": "No data available",
+    "noDataDescription": "There are no records to display at the moment",
+    "itemsSelected": "items selected",
+    "search": "Search ...",
+    "rowsPerPage": "Rows per page:",
+    "of": "of",
+    "next": "Next",
+    "previous": "Previous",
+    "first": "First",
+    "last": "Last"
+  },
+  "date": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "last7Days": "Last 7 days",
+    "last14Days": "Last 14 days",
+    "last30Days": "Last 30 days",
+    "last90Days": "Last 90 days",
+    "last180Days": "Last 180 days",
+    "lastYear": "Last year",
+    "thisYear": "This year",
+    "lastMonth": "Last month",
+    "thisMonth": "This month",
+    "lastWeek": "Last week",
+    "thisWeek": "This week"
+  },
+  "pages": {
+    "crm": {
+      "totalOrders": "Total Orders",
+      "totalRevenue": "Total Revenue",
+      "totalShops": "Total Shops",
+      "userOrders": "User Orders",
+      "conversionRate": "Conversion Rate"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to your account",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Login",
+      "submitting": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create new account",
+      "success": "Login successfully",
+      "errorGeneric": "Login failed",
+      "errorNetwork": "An error occurred during login",
+      "errorGoogle": "Google login failed",
+      "divider": "Or continue with",
+      "googleLogin": "Continue with Google",
+      "googleSigningIn": "Signing in...",
+      "verificationMessage": "Email verified successfully. You can now log in."
+    },
+    "register": {
+      "title": "Register account",
+      "subtitle": "Create an account to start using the system",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "username": "Username",
+      "usernamePlaceholder": "Enter your username",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-enter your password",
+      "passwordRequirements": "Password requirements:",
+      "passwordRequirementMin": "At least {min} characters",
+      "passwordRequirementUpper": "At least 1 uppercase letter",
+      "passwordRequirementLower": "At least 1 lowercase letter",
+      "passwordRequirementNumber": "At least 1 number",
+      "passwordRequirementSpecial": "At least 1 special character",
+      "passwordMatch": "Passwords match",
+      "submit": "Create account",
+      "submitting": "Creating account...",
+      "divider": "Or continue with",
+      "googleSignUp": "Continue with Google",
+      "googleSigningUp": "Signing up...",
+      "success": "Account created! Check your email to verify your account.",
+      "nextStepTitle": "Check your email",
+      "nextStepDescription": "We just sent a verification link to {email}.",
+      "nextStepCheckEmail": "Open the email and click the link to activate your account.",
+      "nextStepSpam": "Didn't see it? Check spam or promotions and mark us as safe.",
+      "nextStepLogin": "Go to login",
+      "errorEmailExists": "Email already exists",
+      "errorEmailExistsAction": "Email already in use — sign in or reset your password",
+      "passwordRequirementInline": "Use at least {min} characters with upper, lower, number, and special character",
+      "errorGeneric": "Registration failed",
+      "errorNetwork": "An error occurred during registration",
+      "errorGoogle": "Google sign up failed",
+      "errorGoogleNotAvailable": "Google sign up feature is under development"
+    },
+    "forgotPassword": {
+      "title": "Forgot password",
+      "subtitle": "Enter your email to receive a reset link",
+      "submit": "Send reset link",
+      "submitting": "Sending...",
+      "success": "If your email exists, the reset email has been sent.",
+      "error": "Unable to process your request. Please try again.",
+      "backToLoginPrefix": "Remembered your password?",
+      "backToLogin": "Back to login"
+    },
+    "resetPassword": {
+      "title": "Reset password",
+      "subtitle": "Set a new password for your account",
+      "newPassword": "New password",
+      "newPasswordPlaceholder": "Enter new password",
+      "confirmPassword": "Confirm new password",
+      "confirmPasswordPlaceholder": "Re-enter new password",
+      "submit": "Reset password",
+      "submitting": "Resetting...",
+      "success": "Password reset successfully",
+      "successRedirect": "Password reset successfully. Redirecting in {seconds}s...",
+      "error": "Unable to reset password. Please try again.",
+      "invalidLink": "Invalid or missing reset link.",
+      "backToLogin": "Return to Login"
+    },
+    "validation": {
+      "emailRequired": "Please enter email",
+      "emailInvalid": "Invalid email format",
+      "usernameRequired": "Please enter username",
+      "usernameMin": "Username must be at least {min} characters",
+      "passwordRequired": "Please enter password",
+      "passwordMin": "Password must be at least {min} characters",
+      "confirmPasswordRequired": "Please confirm password",
+      "passwordMismatch": "Passwords do not match"
+    }
+  },
+  "admin": {
+    "globalNotifications": {
+      "title": "Global Notifications Management",
+      "createButton": "Create Notification",
+      "table": {
+        "content": "Content",
+        "type": "Type",
+        "status": "Status",
+        "created": "Created",
+        "actions": "Actions"
+      },
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "empty": "No notifications yet",
+      "modal": {
+        "title": "Create Global Notification",
+        "englishLabel": "English Content",
+        "englishPlaceholder": "Enter English notification content...",
+        "vietnameseLabel": "Vietnamese Content (Nội dung tiếng Việt)",
+        "vietnamesePlaceholder": "Nhập nội dung thông báo tiếng Việt...",
+        "typeLabel": "Type",
+        "cancel": "Cancel",
+        "create": "Create",
+        "maxCharacters": "Max 200 characters",
+        "exceedsLimit": "Exceeds limit by {count} characters"
+      },
+      "messages": {
+        "requireContent": "At least one of English or Vietnamese content is required",
+        "exceedsLimit": "Message exceeds {max} characters limit",
+        "createSuccess": "Global notification created successfully",
+        "activatedSuccess": "Notification activated",
+        "deactivatedSuccess": "Notification deactivated",
+        "deleteConfirm": "Are you sure you want to delete this notification?",
+        "deleteSuccess": "Notification deleted successfully"
+      },
+      "errors": {
+        "accessDenied": "You don't have permission to access this page"
+      }
+    },
+    "httpLogging": {
+      "title": "HTTP Request Logging",
+      "subtitle": "Monitor and analyze HTTP request patterns",
+      "filters": {
+        "title": "Filters",
+        "userId": "User ID",
+        "path": "Path",
+        "pathPlaceholder": "/api/...",
+        "statusCode": "Status Code",
+        "applyFilters": "Apply Filters",
+        "loading": "Loading..."
+      },
+      "charts": {
+        "responseTimeOverview": "Average Response Time Trend - Overview (Last 7 Days)",
+        "responseTimeByEndpoint": "Response Time by Endpoint (Last 7 Days)",
+        "selectEndpoint": "Select Endpoint",
+        "selectEndpointPlaceholder": "Choose an endpoint to view details",
+        "totalRequests": "Total requests: {count}",
+        "selectEndpointPrompt": "Please select an endpoint from the dropdown above",
+        "statusDistribution": "Response Status Distribution",
+        "topEndpoints": "Top Endpoints Called",
+        "noData": "No data available"
+      },
+      "errors": {
+        "accessDenied": "Access denied. Admin privileges required.",
+        "loadFailed": "Failed to fetch HTTP request logs"
+      }
+    },
+    "publicCollection": {
+      "title": "Public Collection (Admin)",
+      "subtitle": "Manage public outfits displayed on homepage",
+      "refresh": "Refresh",
+      "createOutfit": "Create Outfit",
+      "stats": {
+        "totalOutfits": "Total Outfits",
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "search": {
+        "placeholder": "Search outfits by name or description...",
+        "status": "Status",
+        "all": "All",
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "loading": "Loading outfit list...",
+      "empty": {
+        "noResults": "No matching outfits found",
+        "noOutfits": "No public outfits yet",
+        "tryDifferentFilter": "Try changing filters or search keywords",
+        "createFirst": "Create the first outfit for homepage",
+        "clearFilters": "Clear Filters"
+      },
+      "card": {
+        "items": "Items",
+        "order": "Order",
+        "active": "Active",
+        "inactive": "Inactive",
+        "itemsButton": "Items",
+        "editButton": "Edit",
+        "deleteTooltip": "Delete outfit"
+      },
+      "deleteConfirm": "Are you sure you want to delete this outfit?",
+      "outfitDialog": {
+        "createTitle": "Create Public Outfit",
+        "editTitle": "Edit Outfit",
+        "nameLabel": "Outfit Name",
+        "descriptionLabel": "Description",
+        "displayOrderLabel": "Display Order",
+        "seasonsLabel": "Seasons",
+        "activeLabel": "Display on homepage",
+        "cancel": "Cancel",
+        "create": "Create Outfit",
+        "update": "Update",
+        "nameRequired": "Please enter outfit name",
+        "confirmNoImage": "Create outfit without image? You can update it later."
+      },
+      "itemsDialog": {
+        "title": "Manage Items",
+        "addItem": "Add Item",
+        "maxItemsReached": "Maximum 4 items allowed",
+        "empty": "No items in this outfit yet",
+        "color": "Color",
+        "order": "Order",
+        "deleteTooltip": "Delete item",
+        "close": "Close",
+        "deleteConfirm": "Delete this item?"
+      },
+      "itemDialog": {
+        "createTitle": "Add Item",
+        "editTitle": "Edit Item",
+        "imageLabel": "Item Image",
+        "chooseImage": "Choose Image",
+        "nameLabel": "Item Name",
+        "buyLinkLabel": "Buy Link",
+        "colorLabel": "Color",
+        "displayOrderLabel": "Display Order",
+        "noColor": "None",
+        "aiRemoveBackground": "AI remove background",
+        "processing": "Processing...",
+        "cancel": "Cancel",
+        "save": "Save",
+        "add": "Add",
+        "selectImageFirst": "Select an image first",
+        "noUserInfo": "No user information",
+        "backgroundRemoved": "Background removed successfully",
+        "nameRequired": "Please enter item name",
+        "imageRequired": "Please select item image"
+      },
+      "errors": {
+        "loadFailed": "Failed to load outfits",
+        "deleteFailed": "Failed to delete outfit",
+        "saveFailed": "Failed to save outfit",
+        "loadItemsFailed": "Failed to load items",
+        "deleteItemFailed": "Failed to delete item",
+        "saveItemFailed": "Failed to save item",
+        "removeBackgroundFailed": "Failed to remove background"
+      }
+    },
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "welcomeBack": "Welcome back, {name}",
+      "refresh": "Refresh",
+      "checkingAuth": "Checking authentication...",
+      "redirecting": "Redirecting...",
+      "loading": "Loading admin dashboard...",
+      "accessError": "Access Error",
+      "stats": {
+        "totalUsers": "Total Users",
+        "totalItems": "Total Items",
+        "totalOutfits": "Total Outfits"
+      },
+      "analytics": {
+        "title": "Analytics",
+        "totalVisits": "Total Visits",
+        "uniqueVisitors": "Unique Visitors",
+        "todayVisits": "Today's Visits",
+        "userTypes": "User Types",
+        "registered": "Registered",
+        "anonymous": "Anonymous",
+        "visitsOverTime": "Visits Over Time",
+        "noVisitData": "No visit data available"
+      },
+      "users": {
+        "title": "All Users",
+        "subtitle": "Manage user accounts and roles",
+        "id": "ID",
+        "name": "Name",
+        "email": "Email",
+        "role": "Role",
+        "created": "Created",
+        "actions": "Actions",
+        "editRole": "Edit Role",
+        "admin": "Admin",
+        "user": "User"
+      },
+      "roleModal": {
+        "title": "Update User Role",
+        "userRole": "User (Role 3)",
+        "adminRole": "Admin (Role 1)",
+        "warning": "Changing user role will affect their access permissions",
+        "cancel": "Cancel",
+        "updateSuccess": "User role updated successfully",
+        "updateError": "Failed to update user role"
+      },
+      "errors": {
+        "loadDashboard": "Failed to load dashboard data",
+        "loadChart": "Failed to load chart data"
+      }
+    },
+    "userManagement": {
+      "title": "User Management",
+      "subtitle": "Manage user accounts and roles",
+      "refresh": "Refresh",
+      "loading": "Loading users...",
+      "table": {
+        "title": "All Users",
+        "subtitle": "Manage user accounts and roles",
+        "id": "ID",
+        "name": "Name",
+        "email": "Email",
+        "role": "Role",
+        "created": "Created",
+        "actions": "Actions",
+        "editRole": "Edit Role",
+        "admin": "Admin",
+        "user": "User",
+        "noUsers": "No users found",
+        "noResults": "No users match your filters",
+        "totalUsers": "total users"
+      },
+      "filters": {
+        "search": "Search by name or email...",
+        "role": "Filter by Role",
+        "allRoles": "All Roles",
+        "admin": "Admin",
+        "user": "User",
+        "reset": "Reset"
+      },
+      "pagination": {
+        "showing": "Showing",
+        "of": "of",
+        "users": "users"
+      },
+      "roleModal": {
+        "title": "Update User Role",
+        "userRole": "User (Role 3)",
+        "adminRole": "Admin (Role 1)",
+        "warning": "Changing user role will affect their access permissions",
+        "cancel": "Cancel",
+        "updateSuccess": "User role updated successfully",
+        "updateError": "Failed to update user role"
+      },
+      "errors": {
+        "title": "Error",
+        "loadUsers": "Failed to load users",
+        "accessDenied": "Access denied. Admin privileges required."
+      }
+    },
+    "itemPublicCollection": {
+      "title": "Public Items",
+      "subtitle": "Manage public collection items",
+      "refresh": "Refresh",
+      "loading": "Loading items...",
+      "confirmDelete": "Are you sure you want to delete this item?",
+      "deleteSuccess": "Item deleted successfully",
+      "deleteError": "Failed to delete item",
+      "table": {
+        "title": "All Items",
+        "totalItems": "total items",
+        "image": "Image",
+        "name": "Name",
+        "outfit": "Outfit",
+        "color": "Color",
+        "order": "Display Order",
+        "actions": "Actions",
+        "edit": "Edit",
+        "delete": "Delete",
+        "noItems": "No items found",
+        "noResults": "No items match your search"
+      },
+      "filters": {
+        "search": "Search by name, outfit, or color...",
+        "reset": "Reset"
+      },
+      "pagination": {
+        "showing": "Showing",
+        "of": "of",
+        "items": "items"
+      },
+      "editModal": {
+        "title": "Edit Item",
+        "hint": "To edit items, please use the Public Collection page",
+        "itemName": "Item Name",
+        "outfit": "Outfit",
+        "close": "Close"
+      },
+      "errors": {
+        "title": "Error",
+        "loadItems": "Failed to load items",
+        "accessDenied": "Access denied. Admin privileges required."
+      }
+    },
+    "createPublicItem": {
+      "title": "Create Public Item",
+      "uploadImage": "Upload Item Image",
+      "uploadHint": "Upload a clear image of the item for processing",
+      "chooseFile": "Choose File",
+      "clearImage": "Clear",
+      "cropImage": "Crop",
+      "aiProcess": "AI Process",
+      "processing": "Processing...",
+      "saveItem": "Save Item",
+      "success": "Public item created successfully!",
+      "error": "Failed to create public item"
+    },
+    "importItems": {
+      "title": "Import Items",
+      "subtitle": "Bulk import items from JSON file",
+      "upload": {
+        "title": "Upload JSON File",
+        "description": "Select a JSON file containing items to import",
+        "selectFile": "Select File",
+        "selectedFile": "Selected file",
+        "import": "Import Items",
+        "importing": "Importing...",
+        "reset": "Reset"
+      },
+      "success": {
+        "title": "Import Completed",
+        "description": "Successfully processed {count} items",
+        "importCompleted": "Import completed successfully!"
+      },
+      "stats": {
+        "total": "Total Items",
+        "successful": "Successful",
+        "failed": "Failed"
+      },
+      "instructions": {
+        "title": "File Format Requirements",
+        "format": "File must be in JSON format",
+        "fields": "Each item should have the required fields",
+        "images": "Images should be provided as URLs",
+        "schema": "Check the documentation for the exact schema"
+      },
+      "errors": {
+        "title": "Import Error",
+        "invalidFileType": "Please select a valid JSON file",
+        "noFileSelected": "Please select a file first",
+        "importFailed": "Import failed",
+        "accessDenied": "Access denied. Admin privileges required."
+      }
+    },
+    "creditsPrice": {
+      "title": "Adjust Credits Price",
+      "subtitle": "Manage credit package pricing and bonuses",
+      "table": {
+        "title": "Credit Packages",
+        "subtitle": "Configure pricing for each credit package",
+        "creditAmount": "Credit Amount",
+        "price": "Price (USD)",
+        "bonus": "Bonus Credits",
+        "pricePerCredit": "Price per Credit"
+      },
+      "actions": {
+        "reset": "Reset",
+        "save": "Save Changes",
+        "saving": "Saving..."
+      },
+      "success": {
+        "title": "Success",
+        "update": "Credit prices updated successfully!"
+      },
+      "guide": {
+        "title": "Configuration Guide",
+        "creditAmount": "Credit Amount",
+        "creditAmountDesc": "Number of credits included in the package",
+        "price": "Price (USD)",
+        "priceDesc": "Price in US dollars for the package",
+        "bonus": "Bonus Credits",
+        "bonusDesc": "Additional free credits given with this package",
+        "pricePerCredit": "Price per Credit",
+        "pricePerCreditDesc": "Calculated value showing the cost per credit (automatically computed)"
+      },
+      "errors": {
+        "title": "Error",
+        "saveFailed": "Failed to save credit prices",
+        "accessDenied": "Access denied. Admin privileges required."
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our services",
+    "items": {
+      "aiTryOn": {
+        "question": "How does the AI Try-On feature work?",
+        "answer": "Our AI Try-On feature uses advanced machine learning algorithms to virtually apply clothing items to your photos. Simply upload a model photo and select the garments you want to try on."
+      },
+      "fileFormats": {
+        "question": "What file formats are supported for uploads?",
+        "answer": "We support common image formats including JPG, JPEG, PNG, and WebP. For best results, use high-resolution images with good lighting."
+      },
+      "processingTime": {
+        "question": "How long does processing take?",
+        "answer": "The AI processing typically takes 5-10 seconds depending on image complexity and server load. You'll see a progress indicator during processing."
+      },
+      "saveResults": {
+        "question": "Can I save my try-on results?",
+        "answer": "Yes! You can save your favorite try-on results to your Wardrobe for future reference and comparison."
+      }
+    },
+    "help": {
+      "title": "Need more help?",
+      "description": "If you can't find the answer you're looking for, please contact us via email or support chat."
+    }
+  },
+  "credits": {
+    "hero": {
+      "title": "Power Up Your Creativity",
+      "subtitle": "Purchase credits to unlock unlimited AI-powered try-on generations"
+    },
+    "balance": {
+      "title": "Your Current Balance",
+      "credits": "credits",
+      "remaining": "≈ {count} AI generations remaining",
+      "refresh": "Refresh",
+      "refreshing": "Refreshing..."
+    },
+    "packs": {
+      "title": "Choose Your Pack"
+    },
+    "pack": {
+      "credits": "credits",
+      "purchase": "Purchase Now",
+      "processing": "Processing..."
+    },
+    "payment": {
+      "scanQR": "Scan QR Code to Pay",
+      "order": "Order",
+      "scanInstruction": "Scan with your banking app",
+      "autoAdd": "Credits will be added automatically after payment",
+      "details": "Payment Details",
+      "amount": "Amount to Pay",
+      "bank": "Bank",
+      "accountNumber": "Account Number",
+      "transferContent": "Transfer Content",
+      "instructions": "Payment Instructions",
+      "step1": "Open your banking app",
+      "step2": "Scan the QR code or enter details manually",
+      "step3": "Confirm the payment information",
+      "step4": "Complete the transaction",
+      "step5": "Credits will be added automatically (usually within seconds)",
+      "tip": "You can close this window after payment. Check your notifications or refresh your balance.",
+      "expire": "Payment will expire in 10 minutes",
+      "cancel": "Cancel Payment"
+    },
+    "transactions": {
+      "title": "Recent Transactions"
+    }
+  },
+  "tryOn": {
+    "publicCollectionWarning": {
+      "title": "Change Outfit ? ",
+      "message": "Changing outfit will remove all stacked items. Are you sure you want to proceed?",
+      "confirm": "Yes, Change Outfit"
+    },
+    "saveOutfitPublicItemsWarning": {
+      "title": "Save Outfit with Public Items?",
+      "message": "This outfit contains items from public collections that cannot be saved. Only items from your wardrobe will be recorded in the outfit.",
+      "confirm": "Continue Saving"
+    },
+    "historyWarning": {
+      "title": "Load Previous Try-On?",
+      "message": "Loading a previous try-on will remove all current stacked items. Are you sure you want to proceed?",
+      "confirm": "Yes, Load History"
+    },
+    "outfitStackTitle": "Outfit Stack",
+    "wardrobeTitle": "Wardrobe",
+    "outfitLabel": "Outfit",
+    "publicItemLabel": "Public Item",
+    "comingSoon": {
+      "title": "Try-On Page Coming Soon",
+      "description": "AI try-on feature will be available soon. Please check back later."
+    },
+    "poseGallery": {
+      "title": "Pose Gallery"
+    },
+    "webcam": {
+      "takePhoto": "Take Photo",
+      "previewPhoto": "Preview Photo",
+      "enableCamera": "Enable Camera",
+      "retry": "Retry",
+      "retake": "Retake",
+      "usePhoto": "Use This Photo",
+      "pressToStart": "Press \"Enable Camera\" to start",
+      "errors": {
+        "generic": "Cannot access camera. Please try again.",
+        "notAllowed": "Camera access was denied. Please grant permission and try again.",
+        "notFound": "No camera found on your device.",
+        "notReadable": "Camera is being used by another application.",
+        "overconstrained": "Camera does not support the current configuration.",
+        "browserNotSupported": "Browser does not support camera. Please use HTTPS or try a different browser."
+      }
+    },
+    "startScreen": {
+      "badge": "AI-Powered Try-On",
+      "title": "Create Your Model",
+      "subtitle": "for Any Look",
+      "description": "Upload a photo, let AI clean it up, and build a reusable base model for your favorite outfits.",
+      "uploadPhoto": "Upload Photo",
+      "webcam": "Webcam",
+      "loginToUpload": "Log in to Upload",
+      "photoTip": "Choose a clear, full-body photo for the best results.",
+      "responsibleUse": "Responsible use only. Do not upload harmful or explicit content.",
+      "invalidFile": "Please select an image file.",
+      "loginRequired": "Please log in to start generating your model.",
+      "readError": "Could not read the selected file. Please try another image.",
+      "generationFailed": "Generation Failed",
+      "generating": "Generating your model...",
+      "newYou": "The New You",
+      "dragSlider": "Drag the slider to see your transformation.",
+      "tryAgain": "Try Again",
+      "useDifferentPhoto": "Use Different Photo",
+      "proceedToStyling": "Proceed to Styling"
+    },
+    "canvas": {
+      "startOver": "Start Over",
+      "history": "History",
+      "share": "Share",
+      "result": "Virtual try-on result",
+      "loadingModel": "Loading Model...",
+      "addModelPlaceholder": "Add your model picture here",
+      "openModel": "Model",
+      "addModel": "Add",
+      "itemsUsed": "Items used",
+      "previousPose": "Previous pose",
+      "nextPose": "Next pose",
+      "modelTabs": "Change Default Model ?",
+      "collapsible": "Go to Profile Setting !",
+      "changePose": "Change pose"
+    },
+    "intro": {
+      "stepWardrobe": "Select outfit items to try on (up to 4 items for best display)",
+      "stepGenerate": "Click this button to try on the outfit (may take a few seconds)",
+      "stepModelGallery": "Click here to open your model gallery. Choose a preferred model or create a new one by clicking the Add button",
+      "stepResult": "Result after trying on",
+      "stepPose": "You can use this to change the model's pose",
+      "stepSave": "You can save the outfit you just tried here"
+    },
+    "outfitStack": {
+      "reset": "Reset",
+      "baseModel": "Base Model",
+      "outfit": "Outfit",
+      "removeLayer": "Remove layer",
+      "removeOutfit": "Remove outfit",
+      "removePendingItem": "Remove pending item",
+      "empty": "Your stacked items will appear here. Select items or an outfit from the wardrobe below.",
+      "itemMissing": "This item is no longer available in your wardrobe"
+    },
+    "publicItemNotSaved": "This item will not be saved in Outfit",
+    "wardrobe": {
+      "search": {
+        "placeholder": "Search items...",
+        "publicPlaceholder": "Search collections...",
+        "clear": "Clear",
+        "button": "Search"
+      },
+      "outfitName": "Outfit Name",
+      "favorites": "Favorites",
+      "title": "Wardrobe",
+      "items": "Items",
+      "outfits": "Outfits",
+      "publicCollection": "Public Collection",
+      "collections": "Collections",
+      "boards": "Boards",
+      "categories": {
+        "name": "Category",
+        "all": "All",
+        "top": "Top",
+        "bottom": "Bottom",
+        "outerWear": "Outerwear",
+        "footWear": "Footwear",
+        "bag": "Bag",
+        "accessories": "Accessories"
+      },
+      "filter": {
+        "label": "Filter",
+        "all": "All",
+        "favorite": "Favorite",
+        "public": "Public",
+        "category": "Category",
+        "search": "Search",
+        "reset": "Reset"
+      },
+      "create": {
+        "button": "Create",
+        "addItems": "Add items",
+        "createOutfit": "Create an outfit",
+        "createCollection": "Create a collection",
+        "createBoard": "Create a board"
+      },
+      "noItems": "No items yet",
+      "noOutfits": "No outfits yet",
+      "noCollections": "No collections yet",
+      "noBoards": "No boards yet",
+      "editOutfit": "Edit Outfit",
+      "outfitUpdated": "Outfit updated successfully",
+      "addedToFavorites": "Added to favorites",
+      "removedFromFavorites": "Removed from favorites",
+      "empty": {
+        "items": {
+          "title": "No items yet",
+          "description": "Save and organize individual images as items",
+          "action": "Add Your First Item"
+        },
+        "outfits": {
+          "title": "No outfits yet",
+          "description": "Create beautiful outfits from your saved items",
+          "action": "Create Your First Outfit"
+        },
+        "collections": {
+          "title": "No collections yet",
+          "description": "Create collections to organize your outfits into themed groups",
+          "action": "Create Your First Collection"
+        },
+        "boards": {
+          "title": "No History Yet",
+          "description": "Your generated AI try-on images will appear here",
+          "action": "Create Your First Try-On "
+        }
+      },
+      "pagination": {
+        "showing": "Showing",
+        "to": "to",
+        "of": "of",
+        "previous": "Previous",
+        "next": "Next"
+      },
+      "modals": {
+        "deleteConfirm": {
+          "title": "Delete Outfit",
+          "message": "Are you sure you want to delete this outfit? This action cannot be undone.",
+          "confirm": "Delete",
+          "deleting": "Deleting..."
+        },
+        "createBoard": {
+          "title": "Create New Board",
+          "name": "Board Name",
+          "description": "Description (optional)",
+          "nameRequired": "Board name is required",
+          "creating": "Creating...",
+          "create": "Create Board"
+        },
+        "editBoard": {
+          "title": "Edit Board",
+          "updating": "Updating...",
+          "update": "Update",
+          "delete": "Delete",
+          "deleteConfirm": {
+            "title": "Confirm Delete Board",
+            "description": "Are you sure you want to delete this board? This action cannot be undone."
+          }
+        },
+        "createCollection": {
+          "title": "Create New Collection",
+          "name": "Collection Name",
+          "description": "Description (optional)",
+          "imageCover": "Upload cover image (optional)",
+          "public": "Public",
+          "nameRequired": "Collection name is required",
+          "creating": "Creating...",
+          "create": "Create Collection"
+        },
+        "editCollection": {
+          "title": "Edit Collection",
+          "updating": "Updating...",
+          "update": "Update",
+          "delete": "Delete",
+          "deleteConfirm": {
+            "title": "Confirm Delete Collection",
+            "description": "Are you sure you want to delete this collection? This action cannot be undone."
+          }
+        },
+        "outfitDetail": {
+          "title": "Outfit Details",
+          "comment": "Comment",
+          "favorite": "Favorite",
+          "public": "Public",
+          "created": "Created",
+          "itemsInOutfit": "Items in Outfit",
+          "loading": "Loading outfit preview...",
+          "edit": "Edit",
+          "close": "Close",
+          "delete": "Delete",
+          "deleting": "Deleting outfit...",
+          "deleteConfirm": "Are you sure you want to delete this outfit?"
+        }
+      },
+      "timeAgo": {
+        "today": "Today",
+        "yesterday": "Yesterday",
+        "daysAgo": "{count} days ago",
+        "weeksAgo": "{count} weeks ago",
+        "monthsAgo": "{count} months ago",
+        "yearsAgo": "{count} years ago",
+        "updated": "Updated"
+      },
+      "errors": {
+        "fetchItems": "Failed to load items list",
+        "fetchOutfits": "Failed to load outfits list",
+        "fetchCollections": "Failed to load collections list",
+        "fetchBoards": "Failed to load boards list",
+        "fetchOutfitDetail": "Failed to load outfit details",
+        "updateOutfit": "Failed to update outfit",
+        "nameRequired": "Outfit name is required",
+        "nameTooLong": "Outfit name must not exceed 50 characters",
+        "seasonRequired": "Please select at least one season",
+        "createBoard": "An error occurred while creating board",
+        "updateBoard": "An error occurred while updating board",
+        "deleteBoard": "An error occurred while deleting board",
+        "createCollection": "An error occurred while creating collection",
+        "updateCollection": "An error occurred while updating collection",
+        "deleteCollection": "An error occurred while deleting collection",
+        "noOutfitToSave": "No try-on result to save. Please generate an outfit first.",
+        "outfitNameRequired": "Please enter an outfit name",
+        "saveOutfitFailed": "Failed to save outfit",
+        "cannotSaveOnlyPublicItems": "Cannot save outfit with only public collection items. Please add items from your wardrobe.",
+        "itemAlreadyInOutfit": "This item is already in the outfit"
+      },
+      "success": {
+        "createBoard": "Board created successfully!",
+        "updateBoard": "Board updated successfully!",
+        "deleteBoard": "Board deleted successfully!",
+        "createCollection": "Collection created successfully!",
+        "updateCollection": "Collection updated successfully!",
+        "deleteCollection": "Collection deleted successfully!"
+      },
+      "addItem": {
+        "title": "Add New Item",
+        "webcamCapture": "Webcam Capture",
+        "subtitle": "Take a photo or upload an image",
+        "cameraNotActive": "Camera not active",
+        "startWebcam": "Start Webcam",
+        "uploadImage": "Upload Image",
+        "photoCaptured": "Photo Captured",
+        "cropImage": "Crop Image",
+        "aiGenerate": "AI Generate",
+        "aiRemoveBackground": "AI Remove Background",
+        "clearImage": "Clear Image",
+        "segmentedOutput": "Processed Image",
+        "saveToWardrobe": "Save to Wardrobe",
+        "backToPhoto": "Back to Photo",
+        "applyCrop": "Apply Crop",
+        "cropNote": "Note: This is a simple preview. For advanced cropping, please use an image editor.",
+        "errors": {
+          "cameraNotSupported": "Camera API is not supported. Please use HTTPS or try a different browser.",
+          "cameraDenied": "Camera access was denied. Please grant camera permissions and try again.",
+          "noCamera": "No camera found on your device.",
+          "cameraInUse": "Camera is already in use by another application.",
+          "unknownError": "Unknown error occurred",
+          "invalidFile": "Please select a valid image file",
+          "fileTooLarge": "Image file is too large. Please select an image under 10MB",
+          "noImage": "Please capture or upload an image first",
+          "loginRequired": "Please login to use this feature",
+          "aiProcessingFailed": "AI processing failed. Please try again.",
+          "saveFailed": "Failed to save item",
+          "loadDataFailed": "Failed to load item data"
+        },
+        "success": {
+          "itemSaved": "Item saved successfully!"
+        },
+        "aiProcessing": {
+          "analyzing": "Analyzing image...",
+          "clean": "AI Processing Garment...",
+          "background": "Removing Background..."
+        },
+        "saveModal": {
+          "itemName": "Item Name",
+          "title": "Add Item",
+          "name": "Name",
+          "namePlaceholder": "Enter item name...",
+          "description": "Description",
+          "descriptionPlaceholder": "Enter item description...",
+          "category": "Category",
+          "selectCategory": "Select category...",
+          "categoryHint": "Suggesting category:",
+          "categoryConfirmTitle": "Confirm category?",
+          "categoryConfirm": "You selected a different category than suggested. Do you want to change it?",
+          "categoryConfirmAction": "Confirm",
+          "size": "Size",
+          "colors": "Colors",
+          "seasons": "Seasons ",
+          "occasions": "Occasions",
+          "selected": "Selected",
+          "saving": "Saving...",
+          "save": "Save"
+        },
+        "occasions": {
+          "Casual": "Casual",
+          "Formal": "Formal",
+          "Business": "Business",
+          "Party": "Party",
+          "Sports": "Sports",
+          "Beach": "Beach",
+          "Workout": "Workout",
+          "Date Night": "Date Night",
+          "Wedding": "Wedding",
+          "Travel": "Travel",
+          "Office": "Office",
+          "Concert": "Concert",
+          "Festival": "Festival",
+          "Clubbing": "Clubbing",
+          "Bar": "Bar",
+          "Gym": "Gym",
+          "Yoga": "Yoga",
+          "Outdoor": "Outdoor",
+          "Picnic": "Picnic",
+          "Gala": "Gala",
+          "Graduation": "Graduation",
+          "Birthday": "Birthday",
+          "Anniversary": "Anniversary",
+          "Interview": "Interview",
+          "Presentation": "Presentation",
+          "Conference": "Conference",
+          "Pajamas": "Pajamas",
+          "Swimwear": "Swimwear",
+          "Ski Trip": "Ski Trip",
+          "Mountain": "Mountain",
+          "Honeymoon": "Honeymoon",
+          "Resort": "Resort",
+          "Other": "Other"
+        },
+        "seasons": {
+          "Spring": "Spring",
+          "Summer": "Summer",
+          "Autumn": "Autumn",
+          "Winter": "Winter",
+          "All year round": "All year round",
+          "No season": "No season"
+        },
+        "photoGuide": {
+          "title": "Photo Guide",
+          "subtitle": "Follow these tips for best results when capturing garment photos",
+          "example1": {
+            "title": "Clear Background",
+            "description": "Use a plain, well-lit background for best results"
+          },
+          "example2": {
+            "title": "Good Lighting",
+            "description": "Ensure the garment is well-lit with no harsh shadows"
+          },
+          "example3": {
+            "title": "Full View",
+            "description": "Capture the entire garment in the frame"
+          },
+          "example4": {
+            "title": "No Wrinkles",
+            "description": "Lay the item flat with no wrinkles or folds"
+          },
+          "close": "Close"
+        }
+      },
+      "editItem": {
+        "title": "Edit Item",
+        "itemId": "Item ID",
+        "markAsFavorite": "Mark as Favorite",
+        "noImage": "No Image",
+        "delete": "Delete",
+        "save": "Save Changes",
+        "saving": "Saving...",
+        "deleting": "Deleting...",
+        "success": "Item updated successfully!",
+        "successDelete": "Item deleted successfully!",
+        "deleteConfirm": {
+          "title": "Delete Item",
+          "message": "Are you sure you want to delete this item? This action cannot be undone.",
+          "confirm": "Delete Item"
+        },
+        "errors": {
+          "updateFailed": "Failed to update item",
+          "deleteFailed": "Failed to delete item",
+          "fillRequiredFields": "Please fill in all required fields (Category, Size, and Name)",
+          "outfitNameRequired": "Outfit name is required"
+        }
+      },
+      "outfitBuilder": {
+        "createTitle": "Create Outfit",
+        "editTitle": "Edit Outfit",
+        "loading": "Loading outfit...",
+        "addFromWardrobe": "Add from Wardrobe",
+        "rotate": "Rotate",
+        "scaleUp": "Scale Up",
+        "scaleDown": "Scale Down",
+        "delete": "Delete",
+        "save": "Save Outfit",
+        "clear": "Clear All",
+        "noImage": "No image",
+        "heroCreateTitle": "Create Your Outfit",
+        "heroEditTitle": "Edit Your Outfit",
+        "heroDescription": "Mix and match items from your wardrobe, then save your creation.",
+        "cardDescription": "Add items, arrange, and save your creation.",
+        "outfitBuilder": "Outfit Builder",
+        "editYourOutfit": "Edit Your Outfit",
+        "itemsPanelTitle": "Items in Canvas",
+        "itemsPanelEmpty": "Add garments to your canvas to see them listed here.",
+        "itemsPanelCount": "{count} items",
+        "itemId": "ID",
+        "item": "Item",
+        "fallbackNotice": "We couldn't restore the original layout. The outfit items were loaded so you can arrange them again.",
+        "errors": {
+          "loadDetailImage": "Failed to load outfit image. Please open the outfit again."
+        },
+        "itemModal": {
+          "title": "Add from Wardrobe",
+          "searchPlaceholder": "Search items...",
+          "noItems": "No items in wardrobe yet"
+        },
+        "saveModal": {
+          "saveTitle": "Save Outfit",
+          "updateTitle": "Update Outfit",
+          "nameLabel": "Outfit Name ",
+          "namePlaceholder": "e.g., Summer Beach Look",
+          "commentLabel": "Comment ",
+          "commentPlaceholder": "Add notes about this outfit...",
+          "isPublic": "Make Public",
+          "isFavorite": "Add to Favorites",
+          "seasonsLabel": "Seasons ",
+          "selectSeasons": "Select seasons",
+          "seasonsSelected": "{count} season(s) selected",
+          "validationError": "Please fill in all required fields "
+        }
+      },
+      "boardDetail": {
+        "errorLoading": "Error Loading Board",
+        "uploadImage": "Upload Image",
+        "noImages": "No images yet",
+        "noImagesDescription": "Add images to this board to start building your collection.",
+        "noImage": "No Image",
+        "deleteImage": "Delete Image?",
+        "deleteConfirmTitle": "Are you sure you want to delete this image?",
+        "deleteConfirmDescription": "This action cannot be undone and the image will be permanently removed from your board.",
+        "deleting": "Deleting...",
+        "invalidImageFile": "Please select a valid image file",
+        "fileTooLarge": "File size must be less than 10MB",
+        "processError": "Failed to process image. Please try again.",
+        "selectFile": "Please select a file first",
+        "uploadError": "Failed to upload image",
+        "dropImage": "Drop your image here, or click to browse",
+        "imageFormats": "Supports: JPG, PNG, GIF (max 10MB)",
+        "compressing": "Compressing image...",
+        "uploading": "Uploading..."
+      },
+      "history": {
+        "back": "Back to Wardrobe",
+        "title": "History Board",
+        "description": "All your AI generated try-on images",
+        "empty": {
+          "title": "No History Yet",
+          "description": "Your generated AI try-on images will appear here",
+          "action": "Generate Your First Image"
+        },
+        "saveSuccess": "Image saved to board successfully!"
+      },
+      "suggestion": {
+        "tabTitle": "Suggestion",
+        "title": "Your Outfit Suggestions",
+        "whatToWear": "What Should I Wear Today?",
+        "description": "Let AI analyze current weather conditions at your location and suggest the perfect outfits from your wardrobe. Smart, personalized, and weather-aware.",
+        "feature1": "Uses your current location",
+        "feature2": "Real-time weather analysis",
+        "feature3": "AI-powered recommendations",
+        "getOutfitSuggestions": "Get Outfit Suggestions",
+        "gettingSuggestions": "Getting suggestions...",
+        "locationPermission": "We'll request your location permission to provide accurate weather data",
+        "loginPrompt": "Please log in to get personalized outfit suggestions",
+        "weatherRecommendation": "Weather Recommendation",
+        "recommendedOutfits": "Recommended Outfits",
+        "untitledOutfit": "Untitled Outfit",
+        "tryAnother": "Try Another Location",
+        "noOutfitsFound": "No outfits found for current weather",
+        "addOutfitsTip": "Try adding outfits with season tags to your wardrobe!",
+        "errors": {
+          "geolocationNotSupported": "Geolocation is not supported by your browser",
+          "permissionDenied": "Location permission denied. Please enable location access.",
+          "positionUnavailable": "Location information is unavailable.",
+          "timeout": "Location request timed out.",
+          "unknown": "An unknown error occurred.",
+          "loginRequired": "Please log in to get outfit suggestions",
+          "fetchFailed": "Failed to get suggestions"
+        }
+      }
+    },
+    "footer": {
+      "virtualTryOn": "Virtual try-on by",
+      "suggestion1": "Remix idea: Save outfits directly to your inspiration boards.",
+      "suggestion2": "Remix idea: Add accessories like bags or sunglasses.",
+      "suggestion3": "Remix idea: Offer a shareable lookbook for your clients.",
+      "suggestion4": "Remix idea: Let AI suggest complementary pieces from your wardrobe.",
+      "suggestion5": "Remix idea: Generate different vibe shots for campaign moodboards."
+    },
+    "errors": {
+      "loginRequired": "Please log in to continue.",
+      "noImage": "This item doesn't have an image. Please select a different item.",
+      "modelNotLoaded": "Model picture not loaded. Please create a model first.",
+      "extractFilenamesFailed": "Failed to extract garment filenames from image URLs.",
+      "applyGarmentsFailed": "Failed to apply garments",
+      "changePoseFailed": "Failed to change pose",
+      "saveModelFailed": "Failed to save model picture",
+      "deleteModelFailed": "Failed to delete model picture",
+      "fetchItemsFailed": "Failed to fetch items",
+      "fetchOutfitsFailed": "Failed to fetch outfits",
+      "somethingWentWrong": "Something went wrong",
+      "generateFailed": "Failed to generate try-on image",
+      "humanModelRequired": "Please upload a human model!",
+      "generationFailed": "Generation failed! Make sure to upload with a visible and appropriate person!",
+      "noImageDetected": "The image could not be processed. Please try uploading a clearer image with a visible person.",
+      "maxModelsReached": "You have reached the maximum number of model pictures. Please delete some existing models to add a new one.",
+      "cannotSaveOnlyPublicItems": "Cannot save outfit with only public collection items. Please add items from your wardrobe.",
+      "somethingWentWrongTryAgain": "Something went wrong. Please try again."
+    },
+    "modelChangeWarning": {
+      "title": "Change Model?",
+      "message": "Changing the model will reset your current outfit stack and all generated pose images. This action cannot be undone.",
+      "confirm": "Change Model"
+    },
+    "generateWarning": {
+      "title": "Generate New Outfit?",
+      "message": "Generating a new outfit will clear all your current pose images in the Pose Gallery. This action cannot be undone.",
+      "confirm": "Generate"
+    },
+    "deleteWarning": {
+      "title": "Delete Model?",
+      "message": "Are you sure you want to delete this model picture? This action cannot be undone.",
+      "confirm": "Delete",
+      "cannotDeleteDefault": "Cannot Delete Default Model",
+      "cannotDeleteDefaultDesc": "The default model cannot be deleted. Please set another model as default first before deleting this one.",
+      "understood": "Understood"
+    },
+    "startOverWarning": {
+      "title": "Start Over?",
+      "message": "This will clear your model, all outfit layers, pending items, and generated pose images. This action cannot be undone.",
+      "confirm": "Start Over"
+    },
+    "saveOutfit": "Save this outfit",
+    "saveOutfitTitle": "Save outfit",
+    "outfitName": "Outfit name (optional)",
+    "outfitNamePlaceholder": "Enter outfit name...",
+    "outfitSavedSuccessfully": "Outfit saved successfully!",
+    "namePlaceholder": "e.g., Casual Summer Look",
+    "outfitComment": "Comment (optional)",
+    "addToFavorites": "Add to favorites",
+    "seasons": "Seasons",
+    "expandPanel": "Expand panel",
+    "collapsePanel": "Collapse panel",
+    "savingModel": "Saving your model picture...",
+    "changingPose": "Changing pose...",
+    "generating": {
+      "limitReached": "Daily generation limit reached. Please try again tomorrow.",
+      "label": "Generating...",
+      "outfit": "Generating outfit: {name}...",
+      "items": "Generating outfit with {count} items..."
+    },
+    "generate": "Generate",
+    "generateOutfit": "Generate Outfit",
+    "items": "items",
+    "item": "item",
+    "loading": "Loading...",
+    "outfitGeneratedSuccessfully": "Outfit generated successfully!",
+    "itemsGeneratedSuccessfully": "Items generated successfully!",
+    "poseGeneratedSuccessfully": "Pose generated successfully!",
+    "poseLabels": {
+      "fullFrontal": "Full frontal view, hands on hips",
+      "threeQuarter": "Slightly turned, 3/4 view",
+      "sideProfile": "Side profile view",
+      "jump": "Jumping in the air, mid-action shot",
+      "walking": "Walking towards camera",
+      "leaning": "Leaning against a wall"
+    },
+    "modals": {
+      "setDefaultModel": "Set Default Model",
+      "setDefaultModelDesc": "This model will be used for all future try-on sessions. You can change this later.",
+      "confirmSet": "Set as Default"
+    },
+    "buttons": {
+      "cancel": "Cancel"
+    }
+  },
+  "productToModel": {
+    "hero": {
+      "badge": "AI Workshop",
+      "title": "Product to Model",
+      "subtitle": "Elevate every listing with model-quality visuals",
+      "description": "Transform simple product shots into premium, on-model photography powered by AI. Perfect for e-commerce, catalogs, and lookbooks.",
+      "caption": "Full workflow and editor will be unlocked soon."
+    },
+    "status": {
+      "comingSoon": "Coming Soon"
+    },
+    "upload": {
+      "title": "Upload Product Image",
+      "description": "Drop a PNG/JPG file or browse from your computer to begin the transformation.",
+      "placeholderTitle": "Drop your product photo",
+      "placeholderDescription": "Transparent PNGs and well-lit shots deliver the best results."
+    },
+    "result": {
+      "title": "AI Generated Result",
+      "description": "Generated model photography will appear here with consistent lighting and posing.",
+      "placeholderTitle": "Your result preview",
+      "placeholderDescription": "Preview cards will display each generated model shot."
+    },
+    "workflow": {
+      "title": "How it works",
+      "subtitle": "Purpose-built for fashion founders, stylists, and marketing teams.",
+      "stepLabel": "Step {index}",
+      "steps": {
+        "upload": {
+          "title": "Upload product shot",
+          "description": "Import pack shots, flat lays, or mannequin photos in seconds."
+        },
+        "aiMagic": {
+          "title": "AI styling & posing",
+          "description": "Our AI handles lighting, posing, and retouching to keep everything on-brand."
+        },
+        "result": {
+          "title": "Review & export",
+          "description": "Preview variations, select favorites, and export high-resolution files."
+        }
+      }
+    },
+    "actions": {
+      "getStarted": "Get notified",
+      "hint": "We’re fine-tuning the last details. Your workspace will be ready shortly."
+    }
+  },
+  "outfitSuggest": {
+    "hero": {
+      "badge": "AI Outfit Guide",
+      "title": "Outfit Suggest",
+      "subtitle": "Weather-aware styling for every day",
+      "description": "Blend live weather data with wardrobe metadata to let AI surface the right looks for every outing.",
+      "cta": "Jump to suggestions",
+      "hint": "Grant location access and log in to unlock personalized recommendations."
+    },
+    "highlights": {
+      "title": "Why weather-powered outfits?",
+      "subtitle": "We combine context, climate, and wardrobe history so every fit feels intentional.",
+      "location": {
+        "title": "Contextual location",
+        "description": "Auto-detects your current city with precise coordinates for hyper local insights."
+      },
+      "weather": {
+        "title": "Live weather signals",
+        "description": "Tracks temperature, precipitation, and season cues before suggesting outfits."
+      },
+      "ai": {
+        "title": "AI scoring",
+        "description": "Ranks outfits by comfort, mood, and wardrobe tags to keep styling effortless."
+      }
+    },
+    "history": {
+      "title": "History",
+      "deleteSuccess": "Suggestion deleted successfully",
+      "clearAll": "Clear All",
+      "clear": "Clear",
+      "empty": "No suggestions yet",
+      "emptyHint": "Start a chat to see your outfit suggestions here!",
+      "subtitle": "Outfit Suggestions",
+      "noHistory": "No history yet. Generate your first suggestion to see it here.",
+      "pagination": {
+        "prev": "Prev",
+        "next": "Next",
+        "page": "Page"
+      },
+      "dialogs": {
+        "deleteTitle": "Delete suggestion?",
+        "deleteMessage": "This will permanently remove this suggestion from your history.",
+        "clearTitle": "Clear history?",
+        "clearMessage": "This will remove all saved suggestions.",
+        "confirm": "Confirm"
+      }
+    },
+    "suggestions": {
+      "casual": "Casual outfit for a coffee date",
+      "professional": "Professional attire for a job interview",
+      "comfortable": "Comfortable look for a long flight",
+      "stylish": "Stylish outfit for a beach party",
+      "evening": "Evening wear for a gala dinner"
+    },
+    "badges": {
+      "wardrobe": "Wardrobe",
+      "dreamLook": "Dream Look"
+    },
+    "status": {
+      "synthesizing": "Synthesizing {index}...",
+      "awaiting": "Awaiting generation...",
+      "generating": "Generating...",
+      "generatingLooks": "Generating looks...",
+      "activeSession": "Active Session",
+      "keepTabOpen": "Please keep this tab open while we prepare your outfits."
+    },
+    "buttons": {
+      "selectLook": "Select this look",
+      "newChat": "New Chat",
+      "tryAgain": "Try Again",
+      "saveToOutfits": "Save to My Outfits",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saving": "Saving...",
+      "hideModels": "Hide Models",
+      "showModels": "Show Models",
+      "hideHistory": "Hide History",
+      "showHistory": "Show History",
+      "addModel": "Add Model",
+      "setAsDefault": "Set as Default"
+    },
+    "modals": {
+      "setDefaultModel": "Set Default Model",
+      "setDefaultModelDesc": "This model will be used for all future outfit suggestions. You can change this later in your profile settings.",
+      "confirmSet": "Set as Default",
+      "saveOutfit": "Save Outfit",
+      "outfitName": "Outfit Name",
+      "outfitNamePlaceholder": "Enter a name for this outfit",
+      "modelGallery": "Model Gallery"
+    },
+    "dialogs": {
+      "deleteModel": "Delete Model?",
+      "deleteModelDesc": "This will permanently remove this model from your gallery.",
+      "deleteConfirm": "Delete",
+      "cannotDeleteDefault": "Cannot Delete Default Model",
+      "cannotDeleteDefaultDesc": "You cannot delete your default model. Please set a different model as default first, then try again.",
+      "understood": "Understood"
+    },
+    "labels": {
+      "activeSession": "You asked : ",
+      "fromWardrobe": "From Your Wardrobe",
+      "creativeAlternative": "Creative Alternative",
+      "originalModel": "Original Model",
+      "tryOnResult": "Try-On Result",
+      "dreamLook": "Dream Look",
+      "outfitItems": "Outfit Items ({count})",
+      "untitledOutfit": "Untitled Outfit",
+      "noImageGenerated": "No image generated",
+      "styleOption": "Style Option {index}"
+    },
+    "messages": {
+      "insufficientItems": "Insufficient items in wardrobe. You need at least 10 items to generate outfit suggestions.",
+      "modelRemoved": "Your default model has been removed. Please select a new default model from the gallery before proceeding.",
+      "dreamLooksInfo": "Dream looks can't be saved to your wardrobe as they contain AI-generated items",
+      "outfitSaved": "Outfit saved successfully!",
+      "fromWardrobeDesc": "From your wardrobe",
+      "creativeAlternativeDesc": "Creative alternative",
+      "beyondWardrobe": "A creative interpretation beyond your wardrobe",
+      "outfitCombination": "Outfit combination {index} from your wardrobe",
+      "welcomeTitle": "What's your style vision today?",
+      "welcomeSubtitle": "Describe your ideal outfit and let AI bring it to life",
+      "inputPlaceholder": "E.g., 'A casual summer look for a coffee date'...",
+      "tryThese": "Try these suggestions",
+      "emptyState": "Start a new conversation to get personalized outfit suggestions",
+      "styleOption1Desc": "Curating your first outfit from your wardrobe...",
+      "styleOption2Desc": "Designing your second outfit...",
+      "creativeAlternativeFullDesc": "Exploring creative outfit possibilities..."
+    },
+    "errors": {
+      "userNotAuthenticated": "User not authenticated",
+      "invalidUserId": "Invalid user ID",
+      "failedToSave": "Failed to save outfit",
+      "failedLoadHistory": "Failed to load history",
+      "failedDeleteHistory": "Failed to delete history",
+      "failedClearHistory": "Failed to clear history",
+      "failedCheckRequirement": "Failed to check wardrobe requirement",
+      "failedLoadModels": "Failed to load model gallery",
+      "invalidModelUrl": "Invalid model URL",
+      "failedSetDefaultModel": "Failed to set default model",
+      "loginRequired": "Please log in to continue.",
+      "tryOnLimitReached": "Daily try-on limit reached. Try again tomorrow!"
+    }
+  },
+  "referral": {
+    "intro": {
+      "step1": "Have a referral code from a friend? Click here to submit it and earn bonus credits!",
+      "step2Verified": "This is your unique referral link. Share it with friends to earn rewards!",
+      "step2Unverified": "Complete these requirements to unlock your referral link and start earning rewards!",
+      "step3": "Track your progress on platform activities. Completing these helps verify your account.",
+      "step4": "View your referral statistics and see how many rewards you've earned.",
+      "step5": "Check who signed up using your referral link and track their verification status.",
+      "stepShare": "Share your referral link via social media or messaging apps.",
+      "stepQR": "Generate a QR code for your referral link for easy sharing."
+    },
+    "title": "Invite & Earn Rewards",
+    "error": "Error",
+    "loading": "Loading referral code...",
+    "linkLabel": "YOUR REFERRAL LINK",
+    "linkCopied": "Link copied!",
+    "copy": "Copy",
+    "share": "Share Link",
+    "shareTitle": "Join GuEmLaAI",
+    "shareText": "Check out this amazing AI platform for outfit recommendations!",
+    "viewQR": "View QR Code",
+    "copied": "Copied!",
+    "referredBy": {
+      "label": "Referred by",
+      "thankYou": "Thank you for joining through their referral!",
+      "bonusActivated": "Bonus Activated"
+    },
+    "notVerified": {
+      "title": "Complete Requirements to Unlock Referral Program",
+      "subtitle": "You need to meet specific requirements to access the referral features"
+    },
+    "requirements": {
+      "items": {
+        "title": "Create Items",
+        "subtitle": "Minimum {count} items"
+      },
+      "outfits": {
+        "title": "Create Outfits",
+        "subtitle": "Minimum {count} outfits"
+      },
+      "vto": {
+        "title": "Try Virtual Try-On",
+        "subtitle": "Minimum {count} times"
+      }
+    },
+    "activity": {
+      "title": "Your Activity",
+      "items": "Items Created",
+      "itemsUnit": "items",
+      "outfits": "Outfits Created",
+      "outfitsUnit": "outfits",
+      "vto": "Virtual Try-On Used",
+      "vtoUnit": "times",
+      "requirementMet": "✓ Requirement met",
+      "moreNeeded": "{count} more needed"
+    },
+    "stats": {
+      "total": "Total Referrals",
+      "completed": "Completed",
+      "pending": "Pending",
+      "usageLimit": "Usage Limit Earned",
+      "perReferral": "Per Referral",
+      "allTime": "All time",
+      "active": "Active referrals",
+      "awaiting": "Awaiting activation",
+      "totalEarned": "Total earned",
+      "perPersonLimit": "Limit cap/person"
+    },
+    "tabs": {
+      "history": "Referral History",
+      "rewards": "Rewards Tracker"
+    },
+    "table": {
+      "name": "Name",
+      "date": "Date Joined",
+      "status": "Status",
+      "reward": "Reward"
+    },
+    "empty": {
+      "title": "No referrals yet",
+      "subtitle": "Share your referral link to start earning rewards!"
+    },
+    "rewards": {
+      "total": "Total Rewards Earned",
+      "usageLimitCap": "Usage Limit Cap",
+      "from": "From {count} completed referrals",
+      "empty": {
+        "title": "No completed referrals yet",
+        "subtitle": "Your rewards will appear here once your referrals are completed."
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "What do I earn from referrals?",
+        "answer": "You earn +1 Usage Limit Cap for each successful referral (up to 10 max). This increases your daily usage capacity for Try-on, Model generation, and Item creation features."
+      },
+      "q2": {
+        "question": "What counts as a successful referral?",
+        "answer": "A referral is completed when your friend signs up using your link AND creates their first outfit post."
+      },
+      "q3": {
+        "question": "When do I get the rewards?",
+        "answer": "Your Usage Limit Cap is increased instantly when your referred friend completes their first outfit."
+      }
+    },
+    "qrModal": {
+      "title": "Your Referral QR Code",
+      "linkLabel": "REFERRAL LINK",
+      "download": "Download QR",
+      "info": "Share this QR code with friends. They can scan it to join with your referral code."
+    },
+    "manualCode": {
+      "title": "Enter Referral Code",
+      "description": "Enter a referral code from a friend to get bonus credits.",
+      "label": "Referral Code",
+      "placeholder": "Enter code here...",
+      "submit": "Submit Code",
+      "required": "Please enter a referral code",
+      "success": "Referral code applied successfully!",
+      "error": "Failed to apply referral code"
+    }
+  },
+  "calendar": {
+    "title": "Your Calendar",
+    "loading": "Loading your calendar...",
+    "saving": "Saving...",
+    "refreshTitle": "Refresh calendar data",
+    "todayLabel": "Today",
+    "item": "Item",
+    "items": "Items",
+    "weather": {
+      "loading": "Loading weather...",
+      "noForecast": "No forecast available"
+    },
+    "upcoming": {
+      "title": "Upcoming",
+      "next7Days": "Next 7 days",
+      "filterAll": "All",
+      "filterItems": "Items",
+      "filterOutfits": "Outfits",
+      "filterEvents": "Events",
+      "empty": "No upcoming items",
+      "clickToView": "Click to view this date"
+    },
+    "empty": {
+      "title": "No plans for this day yet",
+      "subtitle": "Add items, outfits, or events to get started",
+      "action": "Add Something"
+    },
+    "panel": {
+      "itemsAndOutfit": "Items & Outfit",
+      "items": "Items",
+      "outfit": "Outfit",
+      "itemOfToday": "Item of Today",
+      "outfitOfToday": "Outfit of Today",
+      "events": "Events",
+      "addItemOrOutfit": "Add Item/Outfit",
+      "addEvent": "Add Event"
+    },
+    "event": {
+      "label": "Event",
+      "name": "Event Name",
+      "startDate": "Start Date",
+      "startTime": "Start Time",
+      "endDate": "End Date",
+      "endTime": "End Time",
+      "allDay": "All Day",
+      "isAllDay": "All Day Event",
+      "multiDay": "Multi-day event",
+      "addGarment": "Add Item/Outfit to Event",
+      "edit": "Edit Event",
+      "delete": "Delete Event",
+      "deleteTitle": "Delete Event?",
+      "deleteConfirm": "Are you sure you want to delete this event? This action cannot be undone.",
+      "save": "Save Event",
+      "cancel": "Cancel",
+      "addGarments": "Add Garments to Event"
+    },
+    "success": {
+      "save": "Calendar saved successfully"
+    },
+    "error": {
+      "incompleteOutfitData": "Error: Outfit data is incomplete. Please try again.",
+      "fetchOutfitDetails": "Failed to fetch outfit details",
+      "eventNameEmpty": "Event name cannot be empty",
+      "imageNotAvailable": "Image not available",
+      "imageDeleted": "File may have been deleted from storage",
+      "itemRemoved": "This item has been removed",
+      "deletedItem": "Deleted Item",
+      "noAssociatedItems": "No associated items found",
+      "loadCalendar": "Failed to load calendar",
+      "saveCalendar": "Failed to save calendar",
+      "loadItems": "Failed to load items",
+      "loadOutfits": "Failed to load outfits",
+      "loadImage": "Failed to load image",
+      "loginRequired": "Please login to continue",
+      "itemAlreadyExists": "This item already exists on this date",
+      "outfitAlreadyExists": "This outfit already exists on this date",
+      "eventAlreadyExists": "This event already exists",
+      "garmentAlreadyInEvent": "This garment is already added to this event",
+      "maxItemsReached": "Maximum items limit reached ({max} items per day). You currently have {current} items.",
+      "maxEventsReached": "Maximum events limit reached ({max} events per day) on {date}",
+      "invalidDateRange": "Invalid date range: End date/time must be after start date/time"
+    },
+    "modal": {
+      "title": "Add to Calendar",
+      "selectType": "Select Type",
+      "item": "Item",
+      "outfit": "Outfit",
+      "event": "Event",
+      "selectItem": "Select Item",
+      "selectOutfit": "Select Outfit",
+      "createEvent": "Create Event",
+      "eventName": "Event Name",
+      "eventTime": "Time",
+      "associatedGarments": "Associated Garments",
+      "addGarment": "Add Item/Outfit",
+      "searchPlaceholder": "Search...",
+      "search": "Search...",
+      "noResults": "No results found",
+      "loading": "Loading...",
+      "loadingData": "Loading data...",
+      "selectItems": "Select Items",
+      "selected": "selected",
+      "itemsInOutfit": "{count} item(s) in this outfit",
+      "eventNamePlaceholder": "e.g., Dinner Party, Work Meeting",
+      "itemDefaultName": "Item #{id}",
+      "outfitDefaultName": "Outfit #{id}"
+    }
+  },
+  "profile": {
+    "confirmModelDelete": "Delete Model ?",
+    "confirmModelDeleteText": "Are you sure you want to delete this model picture? This action cannot be undone.",
+    "delete": "Delete",
+    "viewProfile": "View Profile",
+    "tabs": {
+      "statistics": "Statistics",
+      "profileInfo": "Profile"
+    },
+    "statistics": {
+      "title": "Wardrobe Statistics",
+      "loading": "Loading statistics...",
+      "itemCount": "Items",
+      "colors": "Colors",
+      "itemsByCategory": "Items in Wardrobe by Category",
+      "itemsByColor": "Items in Wardrobe by Color",
+      "itemsByWearCount": "Items in Wardrobe by Wear Count",
+      "noData": "No statistics data available",
+      "errors": {
+        "title": "Error Loading Statistics",
+        "loadStats": "Failed to load wardrobe statistics"
+      }
+    },
+    "edit": "Edit profile",
+    "editTitle": "Edit Profile",
+    "noBio": "No bio yet. Click Edit profile to add one.",
+    "creditBalance": "Credit Balance",
+    "credits": "credits",
+    "aiGenerationsRemaining": "AI generations remaining",
+    "buyMoreCredits": "Buy More Credits",
+    "accountInfo": "Account Info",
+    "email": "Email",
+    "displayName": "Display Name",
+    "displayNamePlaceholder": "Enter your display name",
+    "displayNameHint": "This is how your name will appear to others.",
+    "notSet": "Not set",
+    "memberSince": "Member Since",
+    "bodyMeasurements": "Body Measurements",
+    "bmiDescription": "Track your Body Mass Index to help with clothing size recommendations",
+    "height": "Height",
+    "weight": "Weight",
+    "noMeasurements": "No measurements recorded yet",
+    "addMeasurements": "Add your measurements",
+    "profilePicture": "Profile Picture",
+    "uploadPhoto": "Upload Photo",
+    "bio": "Bio",
+    "bioPlaceholder": "Tell us about yourself...",
+    "bioHint": "Brief description for your profile. Maximum 150 characters.",
+    "yourBMI": "Your BMI",
+    "measurementsHint": "Used for personalized clothing size recommendations.",
+    "saveInfo": "Changes will be saved to your profile. Make sure your information is accurate.",
+    "cancel": "Cancel",
+    "saving": "Saving...",
+    "saveChanges": "Save Changes",
+    "success": {
+      "update": "Profile updated successfully!",
+      "modelUpdated": "Default model updated!"
+    },
+    "myModel": "My Model",
+    "models": "models",
+    "noModelPicture": "No model yet",
+    "defaultModel": "Default Model",
+    "active": "Active",
+    "editModel": "Edit Model",
+    "selectModel": "Select Model",
+    "noModelsAvailable": "No models available",
+    "confirmModelChange": "Confirm Model Change",
+    "confirmModelChangeText": "Are you sure you want to set this image as your default model?",
+    "file": "File",
+    "confirming": "Confirming...",
+    "confirm": "Confirm",
+    "default": "Default",
+    "errors": {
+      "invalidHeight": "Height must be a valid number greater than 0",
+      "invalidWeight": "Weight must be a valid number greater than 0",
+      "updateFailed": "Failed to update profile. Please try again.",
+      "emptyInputImages": "Unable to process input images."
+    }
+  },
+  "notifications": {
+    "ITEM_CREATED": "New item '{name}' has been added to your wardrobe.",
+    "ITEM_UPDATED": "Item '{name}' has been updated.",
+    "ITEM_DELETED": "Item '{name}' has been removed from your wardrobe.",
+    "OUTFIT_CREATED": "New outfit '{name}' has been updated to your wardrobe!",
+    "OUTFIT_UPDATED": "Outfit '{name}' has been updated.",
+    "OUTFIT_DELETED": "Outfit '{name}' has been removed.",
+    "BOARD_CREATED": "New board '{name}' has been created.",
+    "BOARD_UPDATED": "Board '{name}' has been updated.",
+    "BOARD_DELETED": "Board '{name}' has been removed.",
+    "TRYON_COMPLETED": "Virtual try-on with '{name}' completed successfully.",
+    "MODEL_CREATED": "New model picture has been created.",
+    "MODEL_DELETED": "Model picture has been deleted.",
+    "CREDIT_PURCHASED": "You have purchased {credits} credits.",
+    "CREDIT_USED": "{credits} credits have been used.",
+    "REFERRER_COMPLETED": "Your referral '{referrerName}' completed their tasks! +1 Daily Limit!",
+    "REFERREE_COMPLETED": "You have completed the Requirement! +1 Daily Limit!",
+    "PROFILE_UPDATED": "Your profile has been updated successfully.",
+    "IMPORT_COMPLETED": "{count} items have been imported successfully.",
+    "IMPORT_FAILED": "Import failed. Please check your file and try again.",
+    "CALENDAR_REMINDER": "You have {garmentCount} garments, {outfitCount} outfit, {eventCount} event for today!",
+    "WELCOME": "Welcome to GuEmLaAI"
+  }
+}

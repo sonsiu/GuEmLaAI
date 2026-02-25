@@ -1,0 +1,2042 @@
+﻿{
+  "sidebar": {
+    "home": "Trang chủ",
+    "tryOn": "Phối đồ AI",
+    "outfitSuggest": "Gợi ý Trang Phục",
+    "wardrobe": "Tủ đồ",
+    "calendar": "Lịch",
+    "referral": "Giới thiệu người mới",
+    "faq": "FAQ",
+    "dashboard": "Dashboard",
+    "userManagement": "Quản lý Người dùng",
+    "publicCollection": "Bộ sưu tập Công khai",
+    "httpLogging": "HTTP Logging",
+    "globalNotifications": "Thông báo Toàn cầu"
+  },
+  "landing": {
+    "hero": {
+      "title1": "Dress with",
+      "title2": "confidence",
+      "subtitle": "Trợ lý phong cách AI cá nhân của bạn - từ quần áo trong tủ đến các kiểu trang phục bạn yêu thích.",
+      "signIn": "Đăng nhập",
+      "signUp": "Đăng ký"
+    },
+    "talkToAI": {
+      "title": "Trò chuyện với GuEmLaAI",
+      "subtitle": "Nhận gợi ý trang phục hoàn hảo",
+      "description": "Nói cho GuEmLaAI biết kế hoạch của bạn, GuEmLaAI sẽ chọn bộ trang phục lý tưởng. Và bạn có thể điều chỉnh cho đến khi hài lòng.",
+      "outfitCaption": "Bảo vệ Đồ Án nên mặc gì ?"
+    },
+    "wardrobe": {
+      "title": "Khám phá lại tủ quần áo của bạn",
+      "subtitle": "Xem tất cả quần áo của bạn ở một nơi.",
+      "description": "Sử dụng công nghệ AI tiên tiến để có những hình ảnh tốt nhất của các bộ trang phục của bạn."
+    },
+    "tryOn": {
+      "title": "Hãy thử mặc trên avatar của bạn",
+      "subtitle": "Xem cách phối những bộ quần áo mới tiềm năng với tủ quần áo của bạn."
+    },
+    "trending": {
+      "title": "Đi đầu xu hướng",
+      "subtitle": "Tham gia cùng những người ưa thích thời trang nhất thế giới sử dụng GuEmLaAI !"
+    },
+    "styleGoal": {
+      "title1": "Mục tiêu phong cách",
+      "title2": "của bạn là gì?",
+      "option1": "Lên kế hoạch trang phục tốt hơn",
+      "option2": "Trông chuyên nghiệp tại nơi làm việc",
+      "option3": "Mở rộng tủ quần áo",
+      "option4": "Phát triển phong cách của tôi",
+      "option5": "Mặc quần áo của tôi nhiều hơn"
+    },
+    "footer": {
+      "privacyPolicy": "Chính sách bảo mật",
+      "terms": "Điều khoản"
+    }
+  },
+  "home": {
+    "heroBanner": {
+      "aiPowered": "Sử dụng AI vào",
+      "fashionStudio": "Studio Thời Trang của bạn !",
+      "subtitle": "Biến đổi tủ quần áo ảo của bạn bằng công nghệ AI tiên tiến",
+      "description": "Thử quần áo ảo, tạo ý tưởng trang phục và quản lý tủ quần áo kỹ thuật số của bạn tại một nơi. Trải nghiệm tương lai của thời trang với nền tảng do AI hỗ trợ của chúng tôi."
+    },
+    "publicCollections": {
+      "title": "Bộ Sưu Tập Công Khai Mẫu",
+      "subtitle": "Sử dụng các bộ sưu tập bộ trang phục mẫu để trải nghiệm ngay tính năng phối đồ AI.",
+      "searchPlaceholder": "Tìm kiếm bộ sưu tập...",
+      "collectionsFound": "bộ sưu tập được tìm thấy",
+      "tryOnAll": "Thử Tất Cả",
+      "itemsCount": "Mục ({{count}})",
+      "noItemsToDisplay": "Không có mục để hiển thị",
+      "noResultsSearch": "Không tìm thấy bộ sưu tập nào phù hợp với tìm kiếm của bạn",
+      "noCollectionsAvailable": "Hiện chưa có bộ sưu tập công khai"
+    }
+  },
+  "common": {
+    "congratulations": "Congratulations 🎉",
+    "bestSeller": "Best Seller",
+    "totalOrders": "Total Orders",
+    "totalRevenue": "Total Revenue",
+    "totalShops": "Total Shops",
+    "userOrders": "User Orders",
+    "conversionRate": "Conversion Rate",
+    "searching": "Searching for {value}",
+    "cancel": "Hủy",
+    "close": "Đóng",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "create": "Tạo",
+    "add": "Thêm",
+    "update": "Cập nhật",
+    "back": "Quay lại",
+    "upload": "Tải lên",
+    "retry": "Thử lại",
+    "characters": "characters",
+    "loading": "Loading...",
+    "next": "Tiếp",
+    "previous": "Trước",
+    "done": "Hoàn thành",
+    "saving": "Đang lưu...",
+    "goToAddItem": "Tạo Đồ mới",
+    "goToTryOn": "Dùng Thử đồ",
+    "goToOutfit": "Tạo Trang Phục"
+  },
+  "menubar": {
+    "dashboard": "Dashboard",
+    "about": "About",
+    "analytics": "Analytics",
+    "crm": "CRM"
+  },
+  "validation": {
+    "required": "{field} is required",
+    "min": "{field} must be at least {value} characters",
+    "max": "{field} must not exceed {value} characters",
+    "minNumber": "{field} must be at least {value}",
+    "maxNumber": "{field} must not exceed {value}",
+    "email": "Invalid email format",
+    "date": "Invalid date format",
+    "pattern": "Invalid {field} format"
+  },
+  "table": {
+    "header": {
+      "username": "Username",
+      "email": "Email",
+      "phone": "Phone",
+      "status": "Status",
+      "action": "Action"
+    },
+    "noData": "No data available",
+    "noDataDescription": "There are no records to display at the moment",
+    "itemsSelected": "items selected",
+    "search": "Search ...",
+    "rowsPerPage": "Rows per page:",
+    "of": "of",
+    "next": "Next",
+    "previous": "Previous",
+    "first": "First",
+    "last": "Last"
+  },
+  "date": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "last7Days": "Last 7 days",
+    "last14Days": "Last 14 days",
+    "last30Days": "Last 30 days",
+    "last90Days": "Last 90 days",
+    "last180Days": "Last 180 days",
+    "lastYear": "Last year",
+    "thisYear": "This year",
+    "lastMonth": "Last month",
+    "thisMonth": "This month",
+    "lastWeek": "Last week",
+    "thisWeek": "This week"
+  },
+  "pages": {
+    "crm": {
+      "totalOrders": "Total Orders",
+      "totalRevenue": "Total Revenue",
+      "totalShops": "Total Shops",
+      "userOrders": "User Orders",
+      "conversionRate": "Conversion Rate"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to your account",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Login",
+      "submitting": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create new account",
+      "success": "Login successfully",
+      "errorGeneric": "Login failed",
+      "errorNetwork": "An error occurred during login",
+      "errorGoogle": "Google login failed",
+      "divider": "Or continue with",
+      "googleLogin": "Continue with Google",
+      "googleSigningIn": "Signing in...",
+      "verificationMessage": "Email verified successfully. You can now log in."
+    },
+    "register": {
+      "title": "Register {appName} account 🚀",
+      "subtitle": "Create an account to start using the system",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "username": "Username",
+      "usernamePlaceholder": "Enter your username",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-enter your password",
+      "passwordRequirements": "Password requirements:",
+      "passwordRequirementMin": "At least {min} characters",
+      "passwordRequirementUpper": "At least 1 uppercase letter",
+      "passwordRequirementLower": "At least 1 lowercase letter",
+      "passwordRequirementNumber": "At least 1 number",
+      "passwordRequirementSpecial": "At least 1 special character",
+      "passwordMatch": "Passwords match",
+      "submit": "Create account",
+      "submitting": "Creating account...",
+      "divider": "Or continue with",
+      "googleSignUp": "Continue with Google",
+      "googleSigningUp": "Signing up...",
+      "success": "Registration successful! Check your email to verify your account.",
+      "nextStepTitle": "Check your email",
+      "nextStepDescription": "We just sent a verification link to {email}.",
+      "nextStepCheckEmail": "Open the email and click the link to activate your account.",
+      "nextStepSpam": "If you don't see it, check spam or promotions and mark it as safe.",
+      "nextStepLogin": "Go to login",
+      "errorEmailExists": "Email already exists",
+      "errorEmailExistsAction": "Email already in use - sign in or reset your password",
+      "passwordRequirementInline": "Use at least {min} characters with upper, lower, number, and special character",
+      "errorGeneric": "Registration failed",
+      "errorNetwork": "An error occurred during registration",
+      "errorGoogle": "Google sign up failed",
+      "errorGoogleNotAvailable": "Google sign up feature is under development"
+    },
+    "forgotPassword": {
+      "title": "Forgot password",
+      "subtitle": "Enter your email to receive a reset link",
+      "submit": "Send reset link",
+      "submitting": "Sending...",
+      "success": "If your email exists, the reset email has been sent.",
+      "error": "Unable to process your request. Please try again.",
+      "backToLoginPrefix": "Remembered your password?",
+      "backToLogin": "Back to login"
+    },
+    "resetPassword": {
+      "title": "Reset password",
+      "subtitle": "Set a new password for your account",
+      "newPassword": "New password",
+      "newPasswordPlaceholder": "Enter new password",
+      "confirmPassword": "Confirm new password",
+      "confirmPasswordPlaceholder": "Re-enter new password",
+      "submit": "Reset password",
+      "submitting": "Resetting...",
+      "success": "Password reset successfully",
+      "successRedirect": "Password reset successfully. Redirecting in {seconds}s...",
+      "error": "Unable to reset password. Please try again.",
+      "invalidLink": "Invalid or missing reset link.",
+      "backToLogin": "Return to Login"
+    },
+    "validation": {
+      "emailRequired": "Please enter email",
+      "emailInvalid": "Invalid email format",
+      "usernameRequired": "Please enter username",
+      "usernameMin": "Username must be at least {min} characters",
+      "passwordRequired": "Please enter password",
+      "passwordMin": "Password must be at least {min} characters",
+      "confirmPasswordRequired": "Please confirm password",
+      "passwordMismatch": "Passwords do not match"
+    }
+  },
+  "admin": {
+    "globalNotifications": {
+      "title": "Quản lý Thông báo Toàn cầu",
+      "createButton": "Tạo Thông báo",
+      "table": {
+        "content": "Nội dung",
+        "type": "Loại",
+        "status": "Trạng thái",
+        "created": "Ngày tạo",
+        "actions": "Thao tác"
+      },
+      "status": {
+        "active": "Đang hoạt động",
+        "inactive": "Không hoạt động"
+      },
+      "empty": "Chưa có thông báo nào",
+      "modal": {
+        "title": "Tạo Thông báo Toàn cầu",
+        "englishLabel": "Nội dung tiếng Anh",
+        "englishPlaceholder": "Nhập nội dung thông báo tiếng Anh...",
+        "vietnameseLabel": "Nội dung tiếng Việt",
+        "vietnamesePlaceholder": "Nhập nội dung thông báo tiếng Việt...",
+        "typeLabel": "Loại",
+        "cancel": "Hủy",
+        "create": "Tạo",
+        "maxCharacters": "Tối đa 200 ký tự",
+        "exceedsLimit": "Vượt quá {count} ký tự"
+      },
+      "messages": {
+        "requireContent": "Ít nhất một trong hai nội dung tiếng Anh hoặc tiếng Việt là bắt buộc",
+        "exceedsLimit": "Thông báo vượt quá giới hạn {max} ký tự",
+        "createSuccess": "Tạo thông báo toàn cầu thành công",
+        "activatedSuccess": "Kích hoạt thông báo thành công",
+        "deactivatedSuccess": "Vô hiệu hóa thông báo thành công",
+        "deleteConfirm": "Bạn có chắc chắn muốn xóa thông báo này?",
+        "deleteSuccess": "Xóa thông báo thành công"
+      },
+      "errors": {
+        "accessDenied": "Bạn không có quyền truy cập trang này"
+      }
+    },
+    "httpLogging": {
+      "title": "Nhật ký Yêu cầu HTTP",
+      "subtitle": "Giám sát và phân tích các mẫu yêu cầu HTTP",
+      "filters": {
+        "title": "Bộ lọc",
+        "userId": "ID Người dùng",
+        "path": "Đường dẫn",
+        "pathPlaceholder": "/api/...",
+        "statusCode": "Mã trạng thái",
+        "applyFilters": "Áp dụng Bộ lọc",
+        "loading": "Đang tải..."
+      },
+      "charts": {
+        "responseTimeOverview": "Xu hướng Thời gian Phản hồi Trung bình - Tổng quan (7 ngày qua)",
+        "responseTimeByEndpoint": "Thời gian Phản hồi theo Endpoint (7 ngày qua)",
+        "selectEndpoint": "Chọn Endpoint",
+        "selectEndpointPlaceholder": "Chọn một endpoint để xem chi tiết",
+        "totalRequests": "Tổng số yêu cầu: {count}",
+        "selectEndpointPrompt": "Vui lòng chọn một endpoint từ menu thả xuống bên trên",
+        "statusDistribution": "Phân bố Mã Trạng thái",
+        "topEndpoints": "Các Endpoint Được Gọi Nhiều Nhất",
+        "noData": "Không có dữ liệu"
+      },
+      "errors": {
+        "accessDenied": "Truy cập bị từ chối. Yêu cầu quyền Admin.",
+        "loadFailed": "Không thể tải nhật ký yêu cầu HTTP"
+      }
+    },
+    "publicCollection": {
+      "title": "Bộ sưu tập Công khai (Admin)",
+      "subtitle": "Quản lý các outfit public hiển thị homepage",
+      "refresh": "Làm mới",
+      "createOutfit": "Tạo outfit",
+      "stats": {
+        "totalOutfits": "Tổng outfit",
+        "active": "Đang hiển thị",
+        "inactive": "Đang ẩn"
+      },
+      "search": {
+        "placeholder": "Tìm kiếm outfit theo tên hoặc mô tả...",
+        "status": "Trạng thái",
+        "all": "Tất cả",
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "loading": "Đang tải danh sách outfit...",
+      "empty": {
+        "noResults": "Không tìm thấy outfit phù hợp",
+        "noOutfits": "Chưa có outfit public nào",
+        "tryDifferentFilter": "Thử đổi bộ lọc hoặc từ khóa tìm kiếm",
+        "createFirst": "Hãy tạo outfit đầu tiên cho trang chủ",
+        "clearFilters": "Xóa bộ lọc"
+      },
+      "card": {
+        "items": "Đồ mặc",
+        "order": "Thứ tự",
+        "active": "Đang hiện thị",
+        "inactive": "Đã ẩn",
+        "itemsButton": "Đồ mặc",
+        "editButton": "Chỉnh sửa",
+        "deleteTooltip": "Xóa outfit"
+      },
+      "deleteConfirm": "Bạn có chắc muốn xóa outfit này?",
+      "outfitDialog": {
+        "createTitle": "Tạo outfit public",
+        "editTitle": "Chỉnh sửa outfit",
+        "nameLabel": "Tên outfit",
+        "descriptionLabel": "Mô tả",
+        "displayOrderLabel": "Thứ tự hiển thị",
+        "seasonsLabel": "Mùa",
+        "activeLabel": "Hiển thị trên homepage",
+        "cancel": "Hủy",
+        "create": "Tạo outfit",
+        "update": "Cập nhật",
+        "nameRequired": "Vui lòng nhập tên outfit",
+        "confirmNoImage": "Tạo outfit không có ảnh? Bạn có thể cập nhật sau."
+      },
+      "itemsDialog": {
+        "title": "Quản lí đồ mặc",
+        "addItem": "Thêm đồ",
+        "maxItemsReached": "Tối đa 4 item",
+        "empty": "Chưa có item nào trong outfit này",
+        "color": "Màu",
+        "order": "Thứ tự",
+        "deleteTooltip": "Xóa item",
+        "close": "Đóng",
+        "deleteConfirm": "Xóa item này?"
+      },
+      "itemDialog": {
+        "createTitle": "Thêm item",
+        "editTitle": "Chỉnh sửa item",
+        "imageLabel": "Ảnh item",
+        "chooseImage": "Chọn ảnh",
+        "nameLabel": "Tên item",
+        "buyLinkLabel": "Link mua",
+        "colorLabel": "Màu",
+        "displayOrderLabel": "Thứ tự hiển thị",
+        "noColor": "Không chọn",
+        "aiRemoveBackground": "AI remove background",
+        "processing": "Đang xử lý...",
+        "cancel": "Hủy",
+        "save": "Lưu",
+        "add": "Thêm",
+        "selectImageFirst": "Chọn ảnh trước",
+        "noUserInfo": "Không có thông tin user",
+        "backgroundRemoved": "Đã xóa nền thành công",
+        "nameRequired": "Vui lòng nhập tên item",
+        "imageRequired": "Vui lòng chọn ảnh item"
+      },
+      "errors": {
+        "loadFailed": "Không thể tải outfit",
+        "deleteFailed": "Không thể xóa outfit",
+        "saveFailed": "Không thể lưu outfit",
+        "loadItemsFailed": "Không thể tải item",
+        "deleteItemFailed": "Không thể xóa item",
+        "saveItemFailed": "Không thể lưu item",
+        "removeBackgroundFailed": "Không thể xóa nền"
+      }
+    },
+    "dashboard": {
+      "title": "Bảng Điều Khiển Quản Trị",
+      "welcomeBack": "Chào mừng trở lại, {name}",
+      "refresh": "Làm Mới",
+      "checkingAuth": "Đang kiểm tra xác thực...",
+      "redirecting": "Đang chuyển hướng...",
+      "loading": "Đang tải bảng điều khiển...",
+      "accessError": "Lỗi Truy Cập",
+      "stats": {
+        "totalUsers": "Tổng Người Dùng",
+        "totalItems": "Tổng Vật Phẩm",
+        "totalOutfits": "Tổng Trang Phục"
+      },
+      "analytics": {
+        "title": "Phân Tích",
+        "totalVisits": "Tổng Lượt Truy Cập",
+        "uniqueVisitors": "Người Truy Cập Duy Nhất",
+        "todayVisits": "Lượt Truy Cập Hôm Nay",
+        "userTypes": "Loại Người Dùng",
+        "registered": "Đã Đăng Ký",
+        "anonymous": "Ẩn Danh",
+        "visitsOverTime": "Lượt Truy Cập Theo Thời Gian",
+        "noVisitData": "Không có dữ liệu lượt truy cập"
+      },
+      "users": {
+        "title": "Tất Cả Người Dùng",
+        "subtitle": "Quản lý tài khoản người dùng và vai trò",
+        "id": "ID",
+        "name": "Tên",
+        "email": "Email",
+        "role": "Vai trò",
+        "created": "Ngày tạo",
+        "actions": "Thao tác",
+        "editRole": "Chỉnh Sửa Vai trò",
+        "admin": "Quản trị viên",
+        "user": "Người dùng"
+      },
+      "roleModal": {
+        "title": "Cập Nhật Vai trò Người dùng",
+        "userRole": "Người dùng (Vai trò 3)",
+        "adminRole": "Quản trị viên (Vai trò 1)",
+        "warning": "Thay đổi vai trò người dùng sẽ ảnh hưởng đến quyền truy cập của họ",
+        "cancel": "Hủy",
+        "updateSuccess": "Cập nhật vai trò người dùng thành công",
+        "updateError": "Không thể cập nhật vai trò người dùng"
+      },
+      "errors": {
+        "loadDashboard": "Không thể tải dữ liệu bảng điều khiển",
+        "loadChart": "Không thể tải dữ liệu biểu đồ"
+      }
+    },
+    "userManagement": {
+      "title": "Quản lý Người dùng",
+      "subtitle": "Quản lý tài khoản người dùng và vai trò",
+      "refresh": "Làm mới",
+      "loading": "Đang tải người dùng...",
+      "table": {
+        "title": "Tất cả Người dùng",
+        "subtitle": "Quản lý tài khoản người dùng và vai trò",
+        "id": "ID",
+        "name": "Tên",
+        "email": "Email",
+        "role": "Vai trò",
+        "created": "Ngày tạo",
+        "actions": "Thao tác",
+        "editRole": "Chỉnh sửa vai trò",
+        "admin": "Quản trị viên",
+        "user": "Người dùng",
+        "noUsers": "Không tìm thấy người dùng",
+        "noResults": "Không có người dùng nào phù hợp với bộ lọc của bạn",
+        "totalUsers": "tổng người dùng"
+      },
+      "filters": {
+        "search": "Tìm kiếm theo tên hoặc email...",
+        "role": "Lọc theo Vai trò",
+        "allRoles": "Tất cả Vai trò",
+        "admin": "Quản trị viên",
+        "user": "Người dùng",
+        "reset": "Đặt lại"
+      },
+      "pagination": {
+        "showing": "Hiển thị",
+        "of": "của",
+        "users": "người dùng"
+      },
+      "roleModal": {
+        "title": "Cập nhật Vai trò Người dùng",
+        "userRole": "Người dùng (Vai trò 3)",
+        "adminRole": "Quản trị viên (Vai trò 1)",
+        "warning": "Thay đổi vai trò người dùng sẽ ảnh hưởng đến quyền truy cập của họ",
+        "cancel": "Hủy",
+        "updateSuccess": "Cập nhật vai trò người dùng thành công",
+        "updateError": "Không thể cập nhật vai trò người dùng"
+      },
+      "errors": {
+        "title": "Lỗi",
+        "loadUsers": "Không thể tải danh sách người dùng",
+        "accessDenied": "Truy cập bị từ chối. Yêu cầu quyền Admin."
+      }
+    },
+    "itemPublicCollection": {
+      "title": "Các Items Công Khai",
+      "subtitle": "Quản lý các items của bộ sưu tập công khai",
+      "refresh": "Làm mới",
+      "loading": "Đang tải items...",
+      "confirmDelete": "Bạn có chắc chắn muốn xóa item này?",
+      "deleteSuccess": "Xóa item thành công",
+      "deleteError": "Không thể xóa item",
+      "table": {
+        "title": "Tất cả Items",
+        "totalItems": "tổng items",
+        "image": "Ảnh",
+        "name": "Tên",
+        "outfit": "Outfit",
+        "color": "Màu",
+        "order": "Thứ tự Hiển thị",
+        "actions": "Thao tác",
+        "edit": "Chỉnh sửa",
+        "delete": "Xóa",
+        "noItems": "Không tìm thấy items",
+        "noResults": "Không có items nào phù hợp với tìm kiếm"
+      },
+      "filters": {
+        "search": "Tìm kiếm theo tên, outfit, hoặc màu...",
+        "reset": "Đặt lại"
+      },
+      "pagination": {
+        "showing": "Hiển thị",
+        "of": "của",
+        "items": "items"
+      },
+      "editModal": {
+        "title": "Chỉnh sửa Item",
+        "hint": "Để chỉnh sửa items, vui lòng sử dụng trang Public Collection",
+        "itemName": "Tên Item",
+        "outfit": "Outfit",
+        "close": "Đóng"
+      },
+      "errors": {
+        "title": "Lỗi",
+        "loadItems": "Không thể tải danh sách items",
+        "accessDenied": "Truy cập bị từ chối. Yêu cầu quyền Admin."
+      }
+    },
+    "createPublicItem": {
+      "title": "Tạo Item Công Khai",
+      "uploadImage": "Tải lên Ảnh Item",
+      "uploadHint": "Tải lên một bức ảnh rõ ràng của item để xử lý",
+      "chooseFile": "Chọn File",
+      "clearImage": "Xóa",
+      "cropImage": "Cắt",
+      "aiProcess": "Xử lý AI",
+      "processing": "Đang xử lý...",
+      "saveItem": "Lưu Item",
+      "success": "Tạo item công khai thành công!",
+      "error": "Không thể tạo item công khai"
+    },
+    "importItems": {
+      "title": "Nhập Items",
+      "subtitle": "Nhập hàng loạt items từ file JSON",
+      "upload": {
+        "title": "Tải lên file JSON",
+        "description": "Chọn file JSON chứa các items cần nhập",
+        "selectFile": "Chọn File",
+        "selectedFile": "File đã chọn",
+        "import": "Nhập Items",
+        "importing": "Đang nhập...",
+        "reset": "Đặt lại"
+      },
+      "success": {
+        "title": "Nhập thành công",
+        "description": "Đã xử lý thành công {count} items",
+        "importCompleted": "Nhập thành công!"
+      },
+      "stats": {
+        "total": "Tổng Items",
+        "successful": "Thành công",
+        "failed": "Thất bại"
+      },
+      "instructions": {
+        "title": "Yêu cầu định dạng file",
+        "format": "File phải ở định dạng JSON",
+        "fields": "Mỗi item phải có đầy đủ các trường bắt buộc",
+        "images": "Hình ảnh phải được cung cấp dưới dạng URL",
+        "schema": "Kiểm tra tài liệu để biết schema chính xác"
+      },
+      "errors": {
+        "title": "Lỗi nhập",
+        "invalidFileType": "Vui lòng chọn file JSON hợp lệ",
+        "noFileSelected": "Vui lòng chọn file trước",
+        "importFailed": "Nhập thất bại",
+        "accessDenied": "Truy cập bị từ chối. Yêu cầu quyền Admin."
+      }
+    },
+    "creditsPrice": {
+      "title": "Điều chỉnh Giá Credits",
+      "subtitle": "Quản lý giá gói credits và phần thưởng",
+      "table": {
+        "title": "Gói Credits",
+        "subtitle": "Cấu hình giá cho mỗi gói credits",
+        "creditAmount": "Số lượng Credits",
+        "price": "Giá (USD)",
+        "bonus": "Credits thưởng",
+        "pricePerCredit": "Giá mỗi Credit"
+      },
+      "actions": {
+        "reset": "Đặt lại",
+        "save": "Lưu thay đổi",
+        "saving": "Đang lưu..."
+      },
+      "success": {
+        "title": "Thành công",
+        "update": "Cập nhật giá credits thành công!"
+      },
+      "guide": {
+        "title": "Hướng dẫn cấu hình",
+        "creditAmount": "Số lượng Credits",
+        "creditAmountDesc": "Số lượng credits có trong gói",
+        "price": "Giá (USD)",
+        "priceDesc": "Giá tính bằng đô la Mỹ cho gói",
+        "bonus": "Credits thưởng",
+        "bonusDesc": "Credits miễn phí bổ sung được tặng kèm gói này",
+        "pricePerCredit": "Giá mỗi Credit",
+        "pricePerCreditDesc": "Giá trị được tính toán hiển thị chi phí mỗi credit (tự động tính toán)"
+      },
+      "errors": {
+        "title": "Lỗi",
+        "saveFailed": "Lưu giá credits thất bại",
+        "accessDenied": "Truy cập bị từ chối. Yêu cầu quyền Admin."
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our services",
+    "items": {
+      "aiTryOn": {
+        "question": "How does the AI Try-On feature work?",
+        "answer": "Our AI Try-On feature uses advanced machine learning algorithms to virtually apply clothing items to your photos. Simply upload a model photo and select the garments you want to try on."
+      },
+      "fileFormats": {
+        "question": "What file formats are supported for uploads?",
+        "answer": "We support common image formats including JPG, JPEG, PNG, and WebP. For best results, use high-resolution images with good lighting."
+      },
+      "processingTime": {
+        "question": "How long does processing take?",
+        "answer": "The AI processing typically takes 5-10 seconds depending on image complexity and server load. You'll see a progress indicator during processing."
+      },
+      "saveResults": {
+        "question": "Can I save my try-on results?",
+        "answer": "Yes! You can save your favorite try-on results to your Wardrobe for future reference and comparison."
+      }
+    },
+    "help": {
+      "title": "Need more help?",
+      "description": "If you can't find the answer you're looking for, please contact us via email or support chat."
+    }
+  },
+  "credits": {
+    "hero": {
+      "title": "Power Up Your Creativity",
+      "subtitle": "Purchase credits to unlock unlimited AI-powered try-on generations"
+    },
+    "balance": {
+      "title": "Your Current Balance",
+      "credits": "credits",
+      "remaining": "≈ {count} AI generations remaining",
+      "refresh": "Refresh",
+      "refreshing": "Refreshing..."
+    },
+    "packs": {
+      "title": "Choose Your Pack"
+    },
+    "pack": {
+      "credits": "credits",
+      "purchase": "Purchase Now",
+      "processing": "Processing..."
+    },
+    "payment": {
+      "scanQR": "Scan QR Code to Pay",
+      "order": "Order",
+      "scanInstruction": "Scan with your banking app",
+      "autoAdd": "Credits will be added automatically after payment",
+      "details": "Payment Details",
+      "amount": "Amount to Pay",
+      "bank": "Bank",
+      "accountNumber": "Account Number",
+      "transferContent": "Transfer Content",
+      "instructions": "Payment Instructions",
+      "step1": "Open your banking app",
+      "step2": "Scan the QR code or enter details manually",
+      "step3": "Confirm the payment information",
+      "step4": "Complete the transaction",
+      "step5": "Credits will be added automatically (usually within seconds)",
+      "tip": "You can close this window after payment. Check your notifications or refresh your balance.",
+      "expire": "Payment will expire in 10 minutes",
+      "cancel": "Cancel Payment"
+    },
+    "transactions": {
+      "title": "Recent Transactions"
+    }
+  },
+  "tryOn": {
+    "publicCollectionWarning": {
+      "title": "Đổi trang phục? ",
+      "message": "Do đổi trang phục sẽ xóa tất cả các món đã xếp chồng. Bạn có chắc chắn muốn tiếp tục không?",
+      "confirm": "Vâng, Đổi Trang phục"
+    },
+    "saveOutfitPublicItemsWarning": {
+      "title": "Lưu Outfit với Các Mục Công Khai?",
+      "message": "Outfit này chứa các mục từ các bộ sưu tập công khai không thể lưu. Chỉ các mục từ tủ quần áo của bạn sẽ được ghi nhận trong outfit.",
+      "confirm": "Tiếp tục Lưu"
+    },
+    "historyWarning": {
+      "title": "Tải lại thử đồ trước?",
+      "message": "Việc tải lại lịch sử thử đồ sẽ xóa tất cả các món đã xếp chồng hiện tại. Bạn có chắc chắn muốn tiếp tục không?",
+      "confirm": "Vâng, Tải lại lịch sử"
+    },
+    "outfitStackTitle": "Danh sách outfit",
+    "wardrobeTitle": "Tủ đồ",
+    "outfitLabel": "Outfit",
+    "publicItemLabel": "Đồ mẫu",
+    "comingSoon": {
+      "title": "Try-On Page Coming Soon",
+      "description": "AI try-on feature will be available soon. Please check back later."
+    },
+    "poseGallery": {
+      "title": "Thư viện Tư thế"
+    },
+    "webcam": {
+      "takePhoto": "Chụp ảnh",
+      "previewPhoto": "Xem ảnh",
+      "enableCamera": "Bật camera",
+      "retry": "Thử lại",
+      "retake": "Chụp lại",
+      "usePhoto": "Dùng ảnh này",
+      "pressToStart": "Nhấn \"Bật camera\" để bắt đầu",
+      "errors": {
+        "generic": "Không thể truy cập camera. Vui lòng thử lại.",
+        "notAllowed": "Bạn đã từ chối quyền truy cập camera. Hãy cấp quyền và thử lại.",
+        "notFound": "Không tìm thấy camera trên thiết bị của bạn.",
+        "notReadable": "Camera đang được sử dụng bởi ứng dụng khác.",
+        "overconstrained": "Camera không hỗ trợ cấu hình hiện tại.",
+        "browserNotSupported": "Trình duyệt không hỗ trợ camera. Vui lòng dùng HTTPS hoặc trình duyệt khác."
+      }
+    },
+    "startScreen": {
+      "badge": "Thử đồ bằng AI",
+      "title": "Tạo mẫu của bạn",
+      "subtitle": "cho mọi phong cách",
+      "description": "Tải ảnh lên, để AI xử lý và tạo ra mẫu cơ bản có thể dùng lại cho các outfit yêu thích.",
+      "uploadPhoto": "Tải ảnh lên",
+      "webcam": "Chụp bằng máy ảnh",
+      "loginToUpload": "Đăng nhập để tải ảnh",
+      "photoTip": "Chọn ảnh toàn thân rõ nét để có kết quả tốt nhất.",
+      "responsibleUse": "Chỉ sử dụng ảnh phù hợp, không tải nội dung phản cảm.",
+      "invalidFile": "Vui lòng chọn tập tin hình ảnh.",
+      "loginRequired": "Vui lòng đăng nhập để bắt đầu tạo mẫu.",
+      "readError": "Không thể đọc ảnh, hãy thử ảnh khác.",
+      "generationFailed": "Tạo mẫu thất bại",
+      "generating": "Đang tạo mẫu...",
+      "newYou": "Phiên Bản mới của bạn !",
+      "dragSlider": "Kéo thanh trượt để xem sự thay đổi.",
+      "tryAgain": "Thử lại",
+      "useDifferentPhoto": "Dùng ảnh khác",
+      "proceedToStyling": "Tiếp tục phối đồ"
+    },
+    "canvas": {
+      "startOver": "Bắt đầu lại",
+      "history": "Lịch sử",
+      "share": "Chia sẻ",
+      "result": "Kết quả thử đồ",
+      "loadingModel": "Đang tải mẫu...",
+      "addModelPlaceholder": "Thêm ảnh mẫu của bạn tại đây",
+      "openModel": "Mẫu",
+      "addModel": "Thêm",
+      "itemsUsed": "Các món đã dùng",
+      "previousPose": "Tư thế trước",
+      "nextPose": "Tư thế tiếp",
+      "modelTabs": "Ảnh mẫu",
+      "collapsible": "Tùy chỉnh mẫu của bạn",
+      "changePose": "Đổi tư thế"
+    },
+    "intro": {
+      "stepWardrobe": "Chọn trang phục để thử đồ (tối đa 4 món để hiển thị đẹp nhất)",
+      "stepGenerate": "Bấm nút này để thử đồ lên mẫu (có thể sẽ mất một vài giây)",
+      "stepModelGallery": "Bấm vào đây để mở thư viện mẫu của bạn. Chọn mẫu ưa thích hoặc tạo mẫu mới bằng cách bấm nút Thêm",
+      "stepResult": "Kết quả sau khi thử đồ",
+      "stepPose": "Bạn có thể dùng mục này để đổi tư thế của mẫu",
+      "stepSave": "Bạn có thể lưu trang phục bạn vừa thử ở đây"
+    },
+    "outfitStack": {
+      "reset": "Đặt lại",
+      "baseModel": "Mẫu gốc",
+      "outfit": "Outfit",
+      "removeLayer": "Xóa lớp",
+      "removeOutfit": "Xóa outfit",
+      "removePendingItem": "Xóa món đang chọn",
+      "empty": "Các món đã chọn sẽ hiển thị tại đây. Hãy chọn món hoặc outfit ở tủ đồ bên dưới.",
+      "itemMissing": "Món đồ này không còn trong tủ đồ của bạn nữa"
+    },
+    "publicItemNotSaved": "Món hàng này sẽ không được lưu vào Outfit",
+    "wardrobe": {
+      "search": {
+        "placeholder": "Tìm kiếm ...",
+        "publicPlaceholder": "Tìm kiếm bộ sưu tập...",
+        "clear": "Clear",
+        "button": "Tìm kiếm"
+      },
+      "outfitName": "Tên trang phục",
+      "favorites": "Yêu thích",
+      "title": "Tủ đồ",
+      "items": "Món đồ",
+      "outfits": "Trang phục",
+      "publicCollection": "Trang phục mẫu",
+      "collections": "Bộ sưu tập",
+      "boards": "Bảng cảm hứng",
+      "categories": {
+        "name": "Danh mục",
+        "all": "Tất cả",
+        "top": "Áo",
+        "bottom": "Quần",
+        "outerWear": "Áo khoác",
+        "footWear": "Giày dép",
+        "bag": "Túi xách",
+        "accessories": "Phụ kiện"
+      },
+      "filter": {
+        "label": "Filter",
+        "all": "All",
+        "favorite": "Favorite",
+        "public": "Public",
+        "category": "Danh mục",
+        "search": "Tìm kiếm",
+        "reset": "Đặt lại"
+      },
+      "create": {
+        "button": "Tạo mới",
+        "addItems": "Tạo món đồ",
+        "createOutfit": "Create an outfit",
+        "createCollection": "Create a collection",
+        "createBoard": "Create a board"
+      },
+      "noItems": "Khá trống ở đây...",
+      "noOutfits": "Khá trống ở đây...",
+      "noCollections": "Khá trống ở đây...",
+      "noBoards": "Khá trống ở đây...",
+      "editOutfit": "Chỉnh sửa Outfit",
+      "outfitUpdated": "Cập nhật outfit thành công",
+      "addedToFavorites": "Đã thêm vào yêu thích",
+      "removedFromFavorites": "Đã xóa khỏi yêu thích",
+      "empty": {
+        "items": {
+          "title": "Khá trống ở đây...",
+          "description": "Bắt đầu thêm món đồ vào tủ quần áo của bạn",
+          "action": "Thêm món đồ đầu tiên ở đây"
+        },
+        "outfits": {
+          "title": "Khá trống ở đây...",
+          "description": "Hãy tạo outfit đầu tiên của bạn trong chế độ Phối đồ AI",
+          "action": "Create Your First Outfit"
+        },
+        "collections": {
+          "title": "No collections yet",
+          "description": "Create collections to organize your outfits into themed groups",
+          "action": "Create Your First Collection"
+        },
+        "boards": {
+          "title": "Khá trống ở đây...",
+          "description": "Hãy dùng Phối đồ AI để tạo xem lịch sử phối đồ của bạn",
+          "action": "Create Your First Board"
+        }
+      },
+      "pagination": {
+        "showing": "Showing",
+        "to": "to",
+        "of": "of",
+        "previous": "Previous",
+        "next": "Next"
+      },
+      "modals": {
+        "deleteConfirm": {
+          "title": "Xóa Outfit",
+          "message": "Bạn có chắc chắn muốn xóa outfit này không? Hành động này không thể được hoàn tác.",
+          "confirm": "Xóa",
+          "deleting": "Đang xóa..."
+        },
+        "createBoard": {
+          "title": "Create New Board",
+          "name": "Board Name",
+          "description": "Description (optional)",
+          "nameRequired": "Board name is required",
+          "creating": "Creating...",
+          "create": "Create Board"
+        },
+        "editBoard": {
+          "title": "Edit Board",
+          "updating": "Updating...",
+          "update": "Update",
+          "delete": "Delete",
+          "deleteConfirm": {
+            "title": "Confirm Delete Board",
+            "description": "Are you sure you want to delete this board? This action cannot be undone."
+          }
+        },
+        "createCollection": {
+          "title": "Create New Collection",
+          "name": "Collection Name",
+          "description": "Description (optional)",
+          "imageCover": "Upload cover image (optional)",
+          "public": "Public",
+          "nameRequired": "Collection name is required",
+          "creating": "Creating...",
+          "create": "Create Collection"
+        },
+        "editCollection": {
+          "title": "Edit Collection",
+          "updating": "Updating...",
+          "update": "Update",
+          "delete": "Delete",
+          "deleteConfirm": {
+            "title": "Confirm Delete Collection",
+            "description": "Are you sure you want to delete this collection? This action cannot be undone."
+          }
+        },
+        "outfitDetail": {
+          "title": "Outfit Details",
+          "comment": "Comment",
+          "favorite": "Favorite",
+          "public": "Public",
+          "created": "Created",
+          "itemsInOutfit": "Items in Outfit",
+          "loading": "Đang tải ảnh phối đồ...",
+          "edit": "Edit",
+          "close": "Close",
+          "delete": "Delete",
+          "deleting": "Đang xóa outfit...",
+          "deleteConfirm": "Bạn có chắc chắn muốn xóa outfit này?"
+        }
+      },
+      "timeAgo": {
+        "today": "Today",
+        "yesterday": "Yesterday",
+        "daysAgo": "{count} days ago",
+        "weeksAgo": "{count} weeks ago",
+        "monthsAgo": "{count} months ago",
+        "yearsAgo": "{count} years ago",
+        "updated": "Updated"
+      },
+      "errors": {
+        "fetchItems": "Không thể tải danh sách món đồ",
+        "fetchOutfits": "Không thể tải danh sách trang phục",
+        "fetchCollections": "Không thể tải danh sách bộ sưu tập",
+        "fetchBoards": "Không thể tải danh sách board",
+        "fetchOutfitDetail": "Failed to load outfit details",
+        "createBoard": "An error occurred while creating board",
+        "updateBoard": "An error occurred while updating board",
+        "deleteBoard": "An error occurred while deleting board",
+        "createCollection": "An error occurred while creating collection",
+        "updateCollection": "An error occurred while updating collection",
+        "deleteCollection": "An error occurred while deleting collection",
+        "seasonRequired": "Vui lòng chọn ít nhất một mùa",
+        "nameTooLong": "Tên outfit không được vượt quá 50 ký tự",
+        "noOutfitToSave": "Không có kết quả thử trang phục. Vui lòng tạo một bộ trang phục trước.",
+        "outfitNameRequired": "Vui lòng nhập tên bộ trang phục",
+        "saveOutfitFailed": "Lỗi khi lưu bộ trang phục",
+        "cannotSaveOnlyPublicItems": "Không thể lưu bộ trang phục chỉ chứa các mục từ bộ sưu tập công khai. Vui lòng thêm các mục từ tủ quần áo của bạn.",
+        "itemAlreadyInOutfit": "Món đồ này đã có trong bộ trang phục"
+      },
+      "success": {
+        "createBoard": "Board created successfully!",
+        "updateBoard": "Board updated successfully!",
+        "deleteBoard": "Board deleted successfully!",
+        "createCollection": "Collection created successfully!",
+        "updateCollection": "Collection updated successfully!",
+        "deleteCollection": "Collection deleted successfully!"
+      },
+      "addItem": {
+        "title": "Thêm món đồ",
+        "webcamCapture": "Chụp ảnh Webcam",
+        "subtitle": "Chụp ảnh hoặc tải lên hình ảnh",
+        "cameraNotActive": "Camera không hoạt động",
+        "startWebcam": "Bắt đầu Webcam",
+        "uploadImage": "Tải lên hình ảnh",
+        "photoCaptured": "Ảnh đã chụp",
+        "cropImage": "Cắt ảnh",
+        "aiGenerate": "Tạo AI",
+        "aiRemoveBackground": "Xóa nền AI",
+        "clearImage": "Xóa ảnh",
+        "segmentedOutput": "Ảnh đã xử lý",
+        "saveToWardrobe": "Lưu vào Tủ đồ",
+        "backToPhoto": "Quay lại Ảnh",
+        "applyCrop": "Áp dụng cắt",
+        "cropNote": "Lưu ý: Đây là bản xem trước đơn giản. Để cắt ảnh nâng cao, vui lòng sử dụng trình chỉnh sửa ảnh.",
+        "errors": {
+          "cameraNotSupported": "Camera API không được hỗ trợ. Vui lòng sử dụng HTTPS hoặc thử trình duyệt khác.",
+          "cameraDenied": "Quyền truy cập camera bị từ chối. Vui lòng cho phép truy cập camera để sử dụng tính năng này.",
+          "noCamera": "Không tìm thấy camera trên thiết bị của bạn.",
+          "cameraInUse": "Camera đang được sử dụng bởi ứng dụng khác. Vui lòng đóng ứng dụng đó và thử lại.",
+          "unknownError": "Đã xảy ra lỗi không xác định",
+          "invalidFile": "Vui lòng chọn một tệp hình ảnh hợp lệ",
+          "fileTooLarge": "Tệp hình ảnh quá lớn. Vui lòng chọn hình ảnh dưới 10MB",
+          "noImage": "Vui lòng chụp hoặc tải lên hình ảnh trước",
+          "loginRequired": "Vui lòng đăng nhập để sử dụng tính năng này",
+          "aiProcessingFailed": "Xử lý AI thất bại. Vui lòng thử lại.",
+          "saveFailed": "Lưu món đồ thất bại",
+          "loadDataFailed": "Tải dữ liệu món đồ thất bại"
+        },
+        "success": {
+          "itemSaved": "Lưu món đồ thành công!"
+        },
+        "aiProcessing": {
+          "analyzing": "Đang phân tích ảnh...",
+          "clean": "Đang xử lý AI cho món đồ...",
+          "background": "Đang xóa nền..."
+        },
+        "saveModal": {
+          "itemName": "Tên món đồ",
+          "title": "Thêm món đồ",
+          "name": "Tên",
+          "namePlaceholder": "Nhập tên món đồ...",
+          "description": "Mô tả",
+          "descriptionPlaceholder": "Nhập mô tả sản phẩm...",
+          "category": "Danh mục",
+          "selectCategory": "Chọn danh mục...",
+          "categoryHint": "Danh mục đề xuất:",
+          "categoryConfirmTitle": "Xác nhận danh mục?",
+          "categoryConfirm": "Bạn đã chọn danh mục khác gợi ý. Bạn có chắc muốn thay đổi không?",
+          "categoryConfirmAction": "Xác nhận",
+          "size": "Kích thước",
+          "colors": "Màu sắc",
+          "seasons": "Mùa ",
+          "occasions": "Dịp",
+          "selected": "Đã chọn",
+          "saving": "Đang lưu...",
+          "save": "Lưu",
+          "validationError": "Vui lòng điền vào tất cả các trường bắt buộc (Danh mục, Kích thước, Tên, Mô tả, Màu sắc, Mùa và Dịp)"
+        },
+        "occasions": {
+          "Casual": "Hàng ngày",
+          "Formal": "Trang trọng",
+          "Business": "Công sở",
+          "Party": "Tiệc tùng",
+          "Sports": "Thể thao",
+          "Beach": "Bãi biển",
+          "Workout": "Tập luyện",
+          "Date Night": "Hẹn hò",
+          "Wedding": "Đám cưới",
+          "Travel": "Du lịch",
+          "Office": "Văn phòng",
+          "Concert": "Buổi hòa nhạc",
+          "Festival": "Lễ hội",
+          "Clubbing": "Đi club",
+          "Bar": "Quán bar",
+          "Gym": "Phòng gym",
+          "Yoga": "Yoga",
+          "Outdoor": "Ngoài trời",
+          "Picnic": "Dã ngoại",
+          "Gala": "Tiệc gala",
+          "Graduation": "Tốt nghiệp",
+          "Birthday": "Sinh nhật",
+          "Anniversary": "Kỷ niệm",
+          "Interview": "Phỏng vấn",
+          "Presentation": "Thuyết trình",
+          "Conference": "Hội thảo",
+          "Pajamas": "Pijama",
+          "Swimwear": "Đồ bơi",
+          "Ski Trip": "Du lịch trượt tuyết",
+          "Mountain": "Leo núi",
+          "Honeymoon": "Tuần trăng mật",
+          "Resort": "Khu nghỉ dưỡng",
+          "Other": "Khác"
+        },
+        "seasons": {
+          "Spring": "Mùa xuân",
+          "Summer": "Mùa hè",
+          "Autumn": "Mùa thu",
+          "Winter": "Mùa đông",
+          "All year round": "Quanh năm",
+          "No season": "Không mùa"
+        },
+        "photoGuide": {
+          "title": "Photo Guide",
+          "subtitle": "Follow these tips for best results when capturing garment photos",
+          "example1": {
+            "title": "Clear Background",
+            "description": "Use a plain, well-lit background for best results"
+          },
+          "example2": {
+            "title": "Good Lighting",
+            "description": "Ensure the garment is well-lit with no harsh shadows"
+          },
+          "example3": {
+            "title": "Full View",
+            "description": "Capture the entire garment in the frame"
+          },
+          "example4": {
+            "title": "No Wrinkles",
+            "description": "Lay the item flat with no wrinkles or folds"
+          },
+          "close": "Close"
+        }
+      },
+      "editItem": {
+        "title": "Chỉnh sửa món đồ",
+        "itemId": "ID món đồ",
+        "markAsFavorite": "Đánh dấu yêu thích",
+        "noImage": "Chưa có ảnh",
+        "delete": "Xóa",
+        "save": "Lưu thay đổi",
+        "saving": "Đang lưu...",
+        "deleting": "Đang xóa...",
+        "success": "Cập nhật món đồ thành công!",
+        "successDelete": "Xóa món đồ thành công!",
+        "deleteConfirm": {
+          "title": "Xóa món đồ",
+          "message": "Bạn có chắc chắn muốn xóa món đồ này? Hành động này không thể hoàn tác.",
+          "confirm": "Xóa món đồ"
+        },
+        "errors": {
+          "updateFailed": "Lưu thay đổi món đồ thất bại",
+          "deleteFailed": "Xóa món đồ thất bại",
+          "fillRequiredFields": "Vui lòng điền vào tất cả các trường bắt buộc (Danh mục, Kích thước và Tên)",
+          "outfitNameRequired": "Vui lòng nhập tên bộ quần áo"
+        }
+      },
+      "outfitBuilder": {
+        "createTitle": "Tạo Bộ Quần Áo",
+        "editTitle": "Chỉnh sửa Bộ Quần Áo",
+        "loading": "Đang tải bộ quần áo...",
+        "addFromWardrobe": "Thêm từ Tủ đồ",
+        "rotate": "Xoay",
+        "scaleUp": "Phóng to",
+        "scaleDown": "Thu nhỏ",
+        "delete": "Xóa",
+        "save": "Lưu Bộ Quần Áo",
+        "clear": "Xóa Tất cả",
+        "noImage": "Chưa có ảnh",
+        "heroCreateTitle": "Tạo Outfit",
+        "heroEditTitle": "Chỉnh sửa Outfit",
+        "heroDescription": "Kết hợp các món đồ từ tủ của bạn và lưu lại thành quả.",
+        "cardDescription": "Thêm món đồ, sắp xếp và lưu lại sáng tạo của bạn.",
+        "outfitBuilder": "Trình tạo Outfit",
+        "editYourOutfit": "Chỉnh sửa Outfit của bạn",
+        "itemsPanelTitle": "Các món trên canvas",
+        "itemsPanelEmpty": "Thêm món từ tủ đồ để xem danh sách tại đây.",
+        "itemsPanelCount": "{count} món",
+        "itemId": "ID",
+        "item": "Món đồ",
+        "fallbackNotice": "Không thể khôi phục bố cục gốc. Các món đã được tải lại để bạn sắp xếp thủ công.",
+        "errors": {
+          "loadDetailImage": "Không thể tải ảnh outfit. Vui lòng mở lại outfit."
+        },
+        "itemModal": {
+          "title": "Add from Wardrobe",
+          "searchPlaceholder": "Search items...",
+          "noItems": "No items in wardrobe yet"
+        },
+        "saveModal": {
+          "saveTitle": "Lưu Bộ Quần Áo",
+          "updateTitle": "Cập nhật Bộ Quần Áo",
+          "nameLabel": "Tên Bộ Quần Áo ",
+          "namePlaceholder": "ví dụ: Trang phục Biển Mùa Hè",
+          "commentLabel": "Bình luận",
+          "commentPlaceholder": "Thêm ghi chú về bộ quần áo này...",
+          "isPublic": "Công khai",
+          "isFavorite": "Thêm vào Yêu thích",
+          "seasonsLabel": "Mùa",
+          "selectSeasons": "Chọn mùa",
+          "seasonsSelected": "{count} mùa đã chọn"
+        }
+      },
+      "boardDetail": {
+        "errorLoading": "Lỗi tải Board",
+        "uploadImage": "Tải ảnh lên",
+        "noImages": "Chưa có ảnh",
+        "noImagesDescription": "Thêm ảnh vào board này để bắt đầu xây dựng bộ sưu tập của bạn.",
+        "noImage": "Không có ảnh",
+        "deleteImage": "Xóa ảnh?",
+        "deleteConfirmTitle": "Bạn có chắc chắn muốn xóa ảnh này?",
+        "deleteConfirmDescription": "Hành động này không thể hoàn tác và ảnh sẽ bị xóa vĩnh viễn khỏi board của bạn.",
+        "deleting": "Đang xóa...",
+        "invalidImageFile": "Vui lòng chọn một file ảnh hợp lệ",
+        "fileTooLarge": "Kích thước file phải nhỏ hơn 10MB",
+        "processError": "Xử lý ảnh thất bại. Vui lòng thử lại.",
+        "selectFile": "Vui lòng chọn file trước",
+        "uploadError": "Tải ảnh lên thất bại",
+        "dropImage": "Kéo thả ảnh vào đây, hoặc nhấp để chọn",
+        "imageFormats": "Hỗ trợ: JPG, PNG, GIF (tối đa 10MB)",
+        "compressing": "Đang nén ảnh...",
+        "uploading": "Đang tải lên..."
+      },
+      "history": {
+        "back": "Quay lại Wardrobe",
+        "title": "Lịch sử",
+        "description": "Tất cả ảnh thử đồ AI đã tạo của bạn",
+        "empty": {
+          "title": "Chưa có lịch sử",
+          "description": "Các ảnh thử đồ AI đã tạo của bạn sẽ xuất hiện ở đây",
+          "action": "Tạo ảnh đầu tiên"
+        },
+        "saveSuccess": "Đã lưu ảnh vào board thành công!"
+      },
+      "suggestion": {
+        "tabTitle": "Gợi ý",
+        "title": "Gợi ý Trang phục của Bạn",
+        "whatToWear": "Hôm nay tôi nên mặc gì?",
+        "description": "Cho AI phân tích điều kiện thời tiết tại vị trí hiện tại của bạn và đề xuất những bộ trang phục hoàn hảo từ tủ quần áo của bạn. Thông minh, cá nhân hóa và nhận biết thời tiết.",
+        "feature1": "Sử dụng vị trí hiện tại của bạn",
+        "feature2": "Phân tích thời tiết thực tế",
+        "feature3": "Khuyến nghị được hỗ trợ bởi AI",
+        "getOutfitSuggestions": "Nhận Gợi ý Trang phục",
+        "gettingSuggestions": "Đang lấy gợi ý...",
+        "locationPermission": "Chúng tôi sẽ yêu cầu quyền vị trí của bạn để cung cấp dữ liệu thời tiết chính xác",
+        "loginPrompt": "Vui lòng đăng nhập để nhận gợi ý trang phục được cá nhân hóa",
+        "weatherRecommendation": "Khuyến nghị về Thời tiết",
+        "recommendedOutfits": "Trang phục được Đề xuất",
+        "untitledOutfit": "Trang phục không tên",
+        "tryAnother": "Thử Vị trí Khác",
+        "noOutfitsFound": "Không tìm thấy trang phục cho thời tiết hiện tại",
+        "addOutfitsTip": "Hãy thêm những bộ trang phục có thẻ mùa vào tủ quần áo của bạn!",
+        "errors": {
+          "geolocationNotSupported": "Trình duyệt của bạn không hỗ trợ định vị địa lý",
+          "permissionDenied": "Quyền vị trí bị từ chối. Vui lòng bật quyền truy cập vị trí.",
+          "positionUnavailable": "Thông tin vị trí không khả dụng.",
+          "timeout": "Yêu cầu vị trí hết thời gian chờ.",
+          "unknown": "Đã xảy ra lỗi không xác định.",
+          "loginRequired": "Vui lòng đăng nhập để nhận gợi ý trang phục",
+          "fetchFailed": "Không thể lấy gợi ý"
+        }
+      }
+    },
+    "footer": {
+      "virtualTryOn": "Virtual try-on by",
+      "suggestion1": "Remix idea: Save outfits directly to your inspiration boards.",
+      "suggestion2": "Remix idea: Add accessories like bags or sunglasses.",
+      "suggestion3": "Remix idea: Offer a shareable lookbook for your clients.",
+      "suggestion4": "Remix idea: Let AI suggest complementary pieces from your wardrobe.",
+      "suggestion5": "Remix idea: Generate different vibe shots for campaign moodboards."
+    },
+    "errors": {
+      "loginRequired": "Vui lòng đăng nhập để tiếp tục.",
+      "noImage": "Món đồ này chưa có ảnh. Hãy chọn món khác.",
+      "modelNotLoaded": "Chưa có ảnh mẫu. Hãy tạo mẫu trước.",
+      "extractFilenamesFailed": "Không thể lấy tên file ảnh từ URL.",
+      "applyGarmentsFailed": "Áp dụng trang phục thất bại",
+      "changePoseFailed": "Đổi tư thế thất bại",
+      "saveModelFailed": "Lưu ảnh mẫu thất bại",
+      "deleteModelFailed": "Xóa ảnh mẫu thất bại",
+      "fetchItemsFailed": "Không thể tải danh sách món đồ",
+      "fetchOutfitsFailed": "Không thể tải danh sách outfit",
+      "somethingWentWrong": "Đã có lỗi xảy ra",
+      "generateFailed": "Tạo ảnh phối đồ thất bại",
+      "humanModelRequired": "Vui lòng tải lên mô hình con người!",
+      "cannotSaveOnlyPublicItems": "Không thể lưu outfit chỉ với các món đồ mẫu công khai. Vui lòng thêm các món đồ từ tủ quần áo của bạn.",
+      "generationFailed": "Tạo ảnh thất bại! Hãy chắc chắn tải lên một người có thể nhìn thấy và phù hợp!",
+      "noImageDetected": "Không thể xử lý hình ảnh. Vui lòng tải lên một hình ảnh rõ ràng hơn với một người có thể nhìn thấy.",
+      "maxModelsReached": "Bạn đã đạt số lượng ảnh mô hình tối đa. Vui lòng xóa một số mô hình hiện có để thêm mô hình mới.",
+      "somethingWentWrongTryAgain": "Đã xảy ra lỗi. Vui lòng thử lại."
+    },
+    "modelChangeWarning": {
+      "title": "Đổi mẫu?",
+      "message": "Thay đổi mẫu sẽ xóa toàn bộ danh sách outfit và tất cả ảnh tư thế đã tạo. Hành động này không thể hoàn tác.",
+      "confirm": "Đổi mẫu"
+    },
+    "generateWarning": {
+      "title": "Tạo outfit mới?",
+      "message": "Tạo outfit mới sẽ xóa toàn bộ ảnh tư thế trong Thư viện Tư thế. Hành động này không thể hoàn tác.",
+      "confirm": "Tạo"
+    },
+    "deleteWarning": {
+      "title": "Xóa mẫu?",
+      "message": "Bạn có chắc chắn muốn xóa ảnh mẫu này? Hành động này không thể hoàn tác.",
+      "confirm": "Xóa",
+      "cannotDeleteDefault": "Không Thể Xóa Mẫu Mặc định",
+      "cannotDeleteDefaultDesc": "Mẫu mặc định không thể bị xóa. Vui lòng đặt mẫu khác làm mặc định trước khi xóa mẫu này.",
+      "understood": "Đã hiểu"
+    },
+    "startOverWarning": {
+      "title": "Bắt đầu lại?",
+      "message": "Thao tác này sẽ xóa mẫu, tất cả lớp outfit, các món đồ đang chờ và ảnh tư thế đã tạo. Hành động này không thể hoàn tác.",
+      "confirm": "Bắt đầu lại"
+    },
+    "saveOutfit": "Lưu outfit này",
+    "saveOutfitTitle": "Lưu outfit",
+    "outfitName": "Tên outfit (không bắt buộc)",
+    "outfitNamePlaceholder": "Nhập tên bộ trang phục...",
+    "outfitSavedSuccessfully": "Bộ trang phục đã được lưu thành công!",
+    "namePlaceholder": "ví dụ: Phong cách mùa hè thoải mái",
+    "outfitComment": "Ghi chú (không bắt buộc)",
+    "addToFavorites": "Thêm vào yêu thích",
+    "seasons": "Mùa",
+    "expandPanel": "Mở bảng điều khiển",
+    "collapsePanel": "Thu gọn bảng điều khiển",
+    "savingModel": "Đang lưu ảnh mẫu...",
+    "changingPose": "Đang đổi tư thế...",
+    "generating": {
+      "limitReached": "Bạn đã đạt giới hạn thử đồ trong ngày. Vui lòng quay lại vào ngày mai.",
+      "label": "Đang tạo...",
+      "outfit": "Đang tạo outfit: {name}...",
+      "items": "Đang tạo outfit với {count} món..."
+    },
+    "generate": "Tạo",
+    "generateOutfit": "Tạo outfit",
+    "items": "món",
+    "item": "món",
+    "loading": "Đang tải...",
+    "outfitGeneratedSuccessfully": "Bộ trang phục được tạo thành công!",
+    "itemsGeneratedSuccessfully": "Các sản phẩm được tạo thành công!",
+    "poseGeneratedSuccessfully": "Tư thế được tạo thành công!",
+    "poseLabels": {
+      "fullFrontal": "Đứng thẳng, tay chống hông",
+      "threeQuarter": "Xoay nhẹ 3/4 góc",
+      "sideProfile": "Nhìn ngang",
+      "jump": "Nhảy giữa không trung",
+      "walking": "Bước tới camera",
+      "leaning": "Tựa vào tường"
+    },
+    "modals": {
+      "setDefaultModel": "Đặt Mẫu Mặc định",
+      "setDefaultModelDesc": "Mẫu này sẽ được sử dụng cho tất cả các phiên thử đồ trong tương lai. Bạn có thể thay đổi điều này sau.",
+      "confirmSet": "Đặt làm Mặc định"
+    },
+    "buttons": {
+      "cancel": "Hủy"
+    }
+  },
+  "outfitSuggest": {
+    "hero": {
+      "badge": "Gợi ý phối đồ AI",
+      "title": "Gợi ý phối đồ",
+      "subtitle": "Phối đồ theo thời tiết hàng ngày",
+      "description": "Kết hợp dữ liệu thời tiết trực tiếp với siêu dữ liệu tủ quần áo để AI gợi ý những bộ đồ phù hợp cho mọi dịp.",
+      "cta": "Chuyển đến gợi ý",
+      "hint": "Cấp quyền truy cập vị trí và đăng nhập để mở khóa các đề xuất cá nhân hóa."
+    },
+    "highlights": {
+      "title": "Tại sao chọn phối đồ theo thời tiết?",
+      "subtitle": "Chúng tôi kết hợp bối cảnh, khí hậu và lịch sử tủ quần áo để mỗi bộ đồ đều có chủ ý.",
+      "location": {
+        "title": "Vị trí ngữ cảnh",
+        "description": "Tự động phát hiện thành phố hiện tại của bạn với tọa độ chính xác để có cái nhìn sâu sắc địa phương."
+      },
+      "weather": {
+        "title": "Tín hiệu thời tiết trực tiếp",
+        "description": "Theo dõi nhiệt độ, lượng mưa và các dấu hiệu mùa trước khi gợi ý trang phục."
+      },
+      "ai": {
+        "title": "AI scoring",
+        "description": "Xếp hạng các bộ đồ theo sự thoải mái, tâm trạng và thẻ tủ quần áo để giữ cho việc phối đồ trở nên dễ dàng."
+      }
+    },
+    "history": {
+      "title": "Lịch sử",
+      "deleteSuccess": "Xóa gợi ý thành công",
+      "clearAll": "Xóa Tất cả",
+      "clear": "Xóa",
+      "empty": "Chưa có gợi ý nào",
+      "emptyHint": "Bắt đầu trò chuyện để xem gợi ý trang phục của bạn tại đây!",
+      "subtitle": "Gợi ý Trang phục",
+      "noHistory": "Chưa có lịch sử. Tạo gợi ý đầu tiên của bạn để xem tại đây.",
+      "pagination": {
+        "prev": "Trước",
+        "next": "Tiếp",
+        "page": "Trang"
+      },
+      "dialogs": {
+        "deleteTitle": "Xóa gợi ý?",
+        "deleteMessage": "Hành động này sẽ xóa vĩnh viễn gợi ý này khỏi lịch sử của bạn.",
+        "clearTitle": "Xóa lịch sử?",
+        "clearMessage": "Hành động này sẽ xóa tất cả các gợi ý đã lưu.",
+        "confirm": "Xác nhận"
+      }
+    },
+    "suggestions": {
+      "casual": "Trang phục casual cho buổi hẹn cà phê",
+      "professional": "Trang phục chuyên nghiệp cho phỏng vấn xin việc",
+      "comfortable": "Trang phục thoải mái cho chuyến bay dài",
+      "stylish": "Trang phục sành điệu cho bữa tiệc bãi biển",
+      "evening": "Trang phục dạ hội cho buổi tiệc gala"
+    },
+    "badges": {
+      "wardrobe": "Tủ đồ",
+      "dreamLook": "Phong cách Mơ ước"
+    },
+    "status": {
+      "synthesizing": "Đang tổng hợp {index}...",
+      "awaiting": "Đang chờ tạo...",
+      "generating": "Đang tạo...",
+      "generatingLooks": "Đang tạo các kiểu trang phục...",
+      "activeSession": "Phiên Hoạt động",
+      "keepTabOpen": "Vui lòng giữ tab này mở trong khi chúng tôi chuẩn bị trang phục của bạn."
+    },
+    "buttons": {
+      "selectLook": "Chọn kiểu này",
+      "newChat": "Trò chuyện Mới",
+      "tryAgain": "Thử lại",
+      "saveToOutfits": "Lưu vào Trang phục",
+      "cancel": "Hủy",
+      "save": "Lưu",
+      "saving": "Đang lưu...",
+      "hideModels": "Ẩn Mẫu",
+      "showModels": "Hiện Mẫu",
+      "hideHistory": "Ẩn Lịch sử",
+      "showHistory": "Hiện Lịch sử",
+      "addModel": "Thêm Mẫu",
+      "setAsDefault": "Đặt làm Mặc định"
+    },
+    "modals": {
+      "setDefaultModel": "Đặt Mẫu Mặc định",
+      "setDefaultModelDesc": "Mẫu này sẽ được sử dụng cho tất cả các gợi ý trang phục trong tương lai. Bạn có thể thay đổi điều này sau trong cài đặt hồ sơ.",
+      "confirmSet": "Đặt làm Mặc định",
+      "saveOutfit": "Lưu Trang phục",
+      "outfitName": "Tên Trang phục",
+      "outfitNamePlaceholder": "Nhập tên cho trang phục này",
+      "modelGallery": "Thư viện Mẫu"
+    },
+    "dialogs": {
+      "deleteModel": "Xóa Mẫu?",
+      "deleteModelDesc": "Thao tác này sẽ xóa vĩnh viễn mẫu này khỏi thư viện của bạn.",
+      "deleteConfirm": "Xóa",
+      "cannotDeleteDefault": "Không Thể Xóa Mẫu Mặc định",
+      "cannotDeleteDefaultDesc": "Bạn không thể xóa mẫu mặc định. Vui lòng đặt một mẫu khác làm mặc định trước, sau đó thử lại.",
+      "understood": "Đã hiểu"
+    },
+    "labels": {
+      "activeSession": "Bạn hỏi : ",
+      "fromWardrobe": "Từ Tủ đồ của Bạn",
+      "creativeAlternative": "Lựa chọn Sáng tạo",
+      "originalModel": "Mẫu Gốc",
+      "tryOnResult": "Kết quả Thử đồ",
+      "dreamLook": "Phong cách Mơ ước",
+      "outfitItems": "Món đồ Trang phục ({count})",
+      "untitledOutfit": "Trang phục Chưa đặt tên",
+      "noImageGenerated": "Không có hình ảnh được tạo",
+      "styleOption": "Phong cách {index}"
+    },
+    "messages": {
+      "insufficientItems": "Không đủ món đồ trong tủ. Bạn cần ít nhất 10 món đồ để tạo gợi ý trang phục.",
+      "modelRemoved": "Mẫu mặc định của bạn đã bị xóa. Vui lòng chọn mẫu mặc định mới từ thư viện trước khi tiếp tục.",
+      "dreamLooksInfo": "Phong cách mơ ước không thể lưu vào tủ đồ vì chúng chứa các món đồ do AI tạo ra",
+      "outfitSaved": "Lưu trang phục thành công!",
+      "fromWardrobeDesc": "Từ tủ đồ của bạn",
+      "creativeAlternativeDesc": "Lựa chọn sáng tạo",
+      "beyondWardrobe": "Một cách diễn giải sáng tạo ngoài tủ đồ của bạn",
+      "outfitCombination": "Tổ hợp trang phục {index} từ tủ đồ của bạn",
+      "welcomeTitle": "Hôm Nay Bạn Nên Mặc Gì?",
+      "welcomeSubtitle": "Mô tả trang phục lý tưởng của bạn và để AI biến nó thành hiện thực",
+      "inputPlaceholder": "Ví dụ: 'Phong cách mùa hè thoải mái cho buổi hẹn cà phê'...",
+      "tryThese": "Thử các gợi ý này",
+      "emptyState": "Bắt đầu cuộc trò chuyện mới để nhận gợi ý trang phục được cá nhân hóa",
+      "styleOption1Desc": "Lấy từ tủ đồ quần áo của bạn...",
+      "styleOption2Desc": "Lấy từ tủ đồ quần áo của bạn...",
+      "creativeAlternativeFullDesc": "Mình nghĩ bạn nên mặc như thế này..."
+    },
+    "errors": {
+      "userNotAuthenticated": "Người dùng chưa xác thực",
+      "invalidUserId": "ID người dùng không hợp lệ",
+      "failedToSave": "Không thể lưu trang phục",
+      "failedLoadHistory": "Không thể tải lịch sử",
+      "failedDeleteHistory": "Không thể xóa lịch sử",
+      "failedClearHistory": "Không thể xóa lịch sử",
+      "failedCheckRequirement": "Không thể kiểm tra yêu cầu tủ đồ",
+      "failedLoadModels": "Không thể tải thư viện mẫu",
+      "invalidModelUrl": "URL mẫu không hợp lệ",
+      "failedSetDefaultModel": "Không thể đặt mẫu mặc định",
+      "loginRequired": "Vui lòng đăng nhập để tiếp tục.",
+      "tryOnLimitReached": "Đã đạt giới hạn thử đồ hàng ngày. Vui lòng thử lại vào ngày mai!"
+    }
+  },
+  "productToModel": {
+    "hero": {
+      "badge": "AI Workshop",
+      "title": "Product to Model",
+      "subtitle": "Elevate every listing with model-quality visuals",
+      "description": "Transform simple product shots into premium, on-model photography powered by AI. Perfect for e-commerce, catalogs, and lookbooks.",
+      "caption": "Full workflow and editor will be unlocked soon."
+    },
+    "status": {
+      "comingSoon": "Coming Soon"
+    },
+    "upload": {
+      "title": "Tải ảnh sản phẩm lên",
+      "description": "Tải ảnh lên , trên dạng PNG/JPG, để AI xử lý và tạo ra mẫu cơ bản có thể dùng lại cho các outfit yêu thích.",
+      "placeholderTitle": "Thả ảnh sản phẩm của bạn",
+      "placeholderDescription": "Ảnh PNG trong suốt và ảnh chụp đủ sáng cho kết quả tốt nhất."
+    },
+    "result": {
+      "title": "AI Generated Result",
+      "description": "Generated model photography will appear here with consistent lighting and posing.",
+      "placeholderTitle": "Your result preview",
+      "placeholderDescription": "Preview cards will display each generated model shot."
+    },
+    "workflow": {
+      "title": "How it works",
+      "subtitle": "Purpose-built for fashion founders, stylists, and marketing teams.",
+      "stepLabel": "Step {index}",
+      "steps": {
+        "upload": {
+          "title": "Upload product shot",
+          "description": "Import pack shots, flat lays, or mannequin photos in seconds."
+        },
+        "aiMagic": {
+          "title": "AI styling & posing",
+          "description": "Our AI handles lighting, posing, and retouching to keep everything on-brand."
+        },
+        "result": {
+          "title": "Review & export",
+          "description": "Preview variations, select favorites, and export high-resolution files."
+        }
+      }
+    },
+    "actions": {
+      "getStarted": "Get notified",
+      "hint": "We’re fine-tuning the last details. Your workspace will be ready shortly."
+    },
+    "referral": {
+      "title": "Mời và Nhận thưởng với chương trình giới thiệu !",
+      "error": "Lỗi",
+      "referralLoading": "Đang tải mã giới thiệu...",
+      "linkLabel": "LIÊN KẾT GIỚI THIỆU CỦA BẠN",
+      "linkCopied": "Đã sao chép liên kết!",
+      "copy": "Sao chép",
+      "share": "Chia sẻ liên kết",
+      "shareTitle": "Tham gia GuEmLaAI",
+      "shareText": "Khám phá nền tảng AI tuyệt vời này để nhận gợi ý trang phục!",
+      "viewQR": "Xem Mã QR",
+      "copied": "Đã sao chép!",
+      "referredBy": {
+        "label": "Được giới thiệu bởi"
+      },
+      "notVerified": {
+        "title": "Hoàn thành yêu cầu để mở khóa chương trình giới thiệu",
+        "subtitle": "Bạn cần đáp ứng các yêu cầu cụ thể để truy cập các tính năng giới thiệu"
+      },
+      "requirements": {
+        "items": {
+          "title": "Thêm món đồ",
+          "subtitle": "Tối thiểu {count} món đồ"
+        },
+        "outfits": {
+          "title": "Tạo Bộ Quần Áo",
+          "subtitle": "Tối thiểu {count} bộ quần áo"
+        },
+        "vto": {
+          "title": "Dùng Phối đồ AI (Virtual Try-On)",
+          "subtitle": "Tối thiểu {count} lần sử dụng"
+        }
+      },
+      "activity": {
+        "title": "Hoạt động của bạn",
+        "items": "Món đồ đã tạo",
+        "itemsUnit": "món đồ",
+        "outfits": "Bộ quần áo đã tạo",
+        "outfitsUnit": "bộ quần áo",
+        "vto": "Số lần dùng Phối đồ AI",
+        "vtoUnit": "lần dùng",
+        "requirementMet": "✓ Đạt yêu cầu",
+        "moreNeeded": "Cần thêm {count}"
+      },
+      "stats": {
+        "total": "Tổng lượt giới thiệu",
+        "completed": "Hoàn thành",
+        "pending": "Đang chờ",
+        "usageLimit": "Giới hạn sử dụng đã nhận",
+        "perReferral": "Mỗi lượt giới thiệu",
+        "allTime": "Tất cả",
+        "active": "Đang hoạt động",
+        "awaiting": "Đang chờ kích hoạt",
+        "totalEarned": "Tổng đã nhận",
+        "perPersonLimit": "Giới hạn/người"
+      },
+      "tabs": {
+        "history": "Lịch sử giới thiệu",
+        "rewards": "Theo dõi phần thưởng"
+      },
+      "table": {
+        "name": "Tên",
+        "date": "Ngày tham gia",
+        "status": "Trạng thái",
+        "reward": "Phần thưởng"
+      },
+      "empty": {
+        "title": "Chưa có lượt giới thiệu nào",
+        "subtitle": "Chia sẻ liên kết giới thiệu để bắt đầu nhận thưởng!"
+      },
+      "rewards": {
+        "total": "Tổng phần thưởng đã nhận",
+        "usageLimitCap": "Giới hạn sử dụng",
+        "from": "Từ {count} lượt giới thiệu hoàn thành",
+        "empty": {
+          "title": "Chưa có lượt giới thiệu hoàn thành",
+          "subtitle": "Phần thưởng của bạn sẽ xuất hiện ở đây khi lượt giới thiệu hoàn thành."
+        }
+      },
+      "faq": {
+        "title": "Câu hỏi thường gặp",
+        "q1": {
+          "question": "Tôi nhận được gì khi giới thiệu?",
+          "answer": "Bạn nhận +1 Giới hạn sử dụng cho mỗi lượt giới thiệu thành công (tối đa 10). Điều này tăng giới hạn sử dụng hàng ngày cho các tính năng Try-on, Tạo Model và Tạo Item."
+        },
+        "q2": {
+          "question": "Thế nào là giới thiệu thành công?",
+          "answer": "Lượt giới thiệu hoàn thành khi bạn bè đăng ký bằng liên kết của bạn VÀ tạo bài đăng outfit đầu tiên."
+        },
+        "q3": {
+          "question": "Khi nào tôi nhận được phần thưởng?",
+          "answer": "Giới hạn sử dụng các chức năng của bạn được tăng ngay lập tức khi người được giới thiệu hoàn thành outfit đầu tiên."
+        }
+      },
+      "qrModal": {
+        "title": "Mã QR giới thiệu của bạn",
+        "linkLabel": "LIÊN KẾT GIỚI THIỆU",
+        "download": "Tải mã QR",
+        "info": "Chia sẻ mã QR này với bạn bè. Họ có thể quét để tham gia với mã giới thiệu của bạn."
+      },
+      "manualCode": {
+        "loginRequired": "Vui lòng đăng nhập để tiếp tục.",
+        "noImage": "Món đồ này không có hình ảnh. Vui lòng chọn món đồ khác.",
+        "modelNotLoaded": "Hình ảnh mẫu chưa được tải. Vui lòng tạo mẫu trước.",
+        "extractFilenamesFailed": "Không thể trích xuất tên tệp quần áo từ URL hình ảnh.",
+        "applyGarmentsFailed": "Không thể áp dụng quần áo",
+        "changePoseFailed": "Không thể thay đổi tư thế",
+        "saveModelFailed": "Không thể lưu hình ảnh mẫu",
+        "fetchItemsFailed": "Không thể lấy món đồ",
+        "fetchOutfitsFailed": "Không thể lấy bộ quần áo",
+        "somethingWentWrong": "Đã xảy ra lỗi"
+      },
+      "savingModel": "Đang lưu hình ảnh mẫu của bạn...",
+      "changingPose": "Đang thay đổi tư thế...",
+      "generating": {
+        "label": "Đang tạo...",
+        "outfit": "Đang tạo bộ quần áo: {name}...",
+        "items": "Đang tạo bộ quần áo với {count} món đồ..."
+      },
+      "generate": "Tạo",
+      "generateOutfit": "Tạo bộ quần áo",
+      "items": "món đồ",
+      "item": "món đồ"
+    },
+    "productToModel": {
+      "hero": {
+        "badge": "AI Workshop",
+        "title": "Product to Model",
+        "subtitle": "Elevate every listing with model-quality visuals",
+        "description": "Transform simple product shots into premium, on-model photography powered by AI. Perfect for e-commerce, catalogs, and lookbooks.",
+        "caption": "Full workflow and editor will be unlocked soon."
+      },
+      "status": {
+        "comingSoon": "Coming Soon"
+      },
+      "upload": {
+        "title": "Upload Product Image",
+        "description": "Drop a PNG/JPG file or browse from your computer to begin the transformation.",
+        "placeholderTitle": "Drop your product photo",
+        "placeholderDescription": "Transparent PNGs and well-lit shots deliver the best results."
+      },
+      "result": {
+        "title": "AI Generated Result",
+        "description": "Generated model photography will appear here with consistent lighting and posing.",
+        "placeholderTitle": "Your result preview",
+        "placeholderDescription": "Preview cards will display each generated model shot."
+      },
+      "workflow": {
+        "title": "How it works",
+        "subtitle": "Purpose-built for fashion founders, stylists, and marketing teams.",
+        "stepLabel": "Step {index}",
+        "steps": {
+          "upload": {
+            "title": "Upload product shot",
+            "description": "Import pack shots, flat lays, or mannequin photos in seconds."
+          },
+          "aiMagic": {
+            "title": "AI styling & posing",
+            "description": "Our AI handles lighting, posing, and retouching to keep everything on-brand."
+          },
+          "result": {
+            "title": "Review & export",
+            "description": "Preview variations, select favorites, and export high-resolution files."
+          }
+        }
+      },
+      "actions": {
+        "getStarted": "Get notified",
+        "hint": "We’re fine-tuning the last details. Your workspace will be ready shortly."
+      }
+    }
+  },
+  "calendar": {
+    "title": "Lịch của bạn",
+    "loading": "Đang tải lịch...",
+    "saving": "Đang lưu...",
+    "refreshTitle": "Làm mới dữ liệu lịch",
+    "todayLabel": "Hôm nay",
+    "item": "Món đồ",
+    "items": "Món đồ",
+    "weather": {
+      "loading": "Đang tải thời tiết...",
+      "noForecast": "Không có dự báo thời tiết"
+    },
+    "upcoming": {
+      "title": "Sắp tới",
+      "next7Days": "7 ngày tới",
+      "filterAll": "Tất cả",
+      "filterItems": "Món đồ",
+      "filterOutfits": "Trang phục",
+      "filterEvents": "Sự kiện",
+      "empty": "Không có mục nào sắp tới",
+      "clickToView": "Nhấp để xem ngày này"
+    },
+    "empty": {
+      "title": "Chưa có kế hoạch cho ngày này",
+      "subtitle": "Thêm món đồ, trang phục hoặc sự kiện để bắt đầu",
+      "action": "Thêm gì đó",
+      "trackOutfit": "Theo dõi trang phục hôm nay",
+      "planTomorrow": "Lên kế hoạch cho ngày mai",
+      "addData": "Thêm Món đồ / Trang phục / Sự kiện"
+    },
+    "panel": {
+      "itemsAndOutfit": "Món đồ & Trang phục",
+      "items": "Món đồ",
+      "outfit": "Trang phục",
+      "itemOfToday": "Món đồ hôm nay",
+      "outfitOfToday": "Trang phục hôm nay",
+      "events": "Sự kiện",
+      "addItemOrOutfit": "Thêm Món đồ/Trang phục",
+      "addEvent": "Thêm Sự kiện"
+    },
+    "event": {
+      "label": "Sự kiện",
+      "name": "Tên sự kiện",
+      "startDate": "Ngày bắt đầu",
+      "startTime": "Giờ bắt đầu",
+      "endDate": "Ngày kết thúc",
+      "endTime": "Giờ kết thúc",
+      "allDay": "Cả ngày",
+      "isAllDay": "Sự kiện cả ngày",
+      "multiDay": "Sự kiện nhiều ngày",
+      "addGarment": "Thêm Món đồ/Trang phục vào Sự kiện",
+      "edit": "Chỉnh sửa Sự kiện",
+      "delete": "Xóa Sự kiện",
+      "deleteTitle": "Xóa Sự kiện?",
+      "deleteConfirm": "Bạn có chắc chắn muốn xóa sự kiện này? Hành động này không thể hoàn tác.",
+      "save": "Lưu Sự kiện",
+      "cancel": "Hủy",
+      "addGarments": "Thêm Món đồ vào Sự kiện"
+    },
+    "success": {
+      "save": "Lưu lịch thành công"
+    },
+    "error": {
+      "incompleteOutfitData": "Lỗi: Dữ liệu trang phục không đầy đủ. Vui lòng thử lại.",
+      "fetchOutfitDetails": "Không thể tải chi tiết trang phục",
+      "eventNameEmpty": "Tên sự kiện không được để trống",
+      "imageNotAvailable": "Không có hình ảnh",
+      "imageDeleted": "Tệp có thể đã bị xóa khỏi kho lưu trữ",
+      "itemRemoved": "Món đồ này đã bị xóa",
+      "deletedItem": "Món đồ đã xóa",
+      "noAssociatedItems": "Không tìm thấy món đồ liên quan",
+      "loadCalendar": "Không thể tải lịch",
+      "saveCalendar": "Không thể lưu lịch",
+      "loadItems": "Không thể tải món đồ",
+      "loadOutfits": "Không thể tải trang phục",
+      "loadImage": "Không thể tải hình ảnh",
+      "loginRequired": "Vui lòng đăng nhập để tiếp tục",
+      "itemAlreadyExists": "Món đồ này đã tồn tại trong ngày này",
+      "outfitAlreadyExists": "Trang phục này đã tồn tại trong ngày này",
+      "eventAlreadyExists": "Sự kiện này đã tồn tại",
+      "garmentAlreadyInEvent": "Món đồ này đã được thêm vào sự kiện",
+      "maxItemsReached": "Đã đạt giới hạn tối đa ({max} món đồ mỗi ngày). Hiện tại bạn có {current} món đồ.",
+      "maxEventsReached": "Đã đạt giới hạn tối đa ({max} sự kiện mỗi ngày) vào ngày {date}",
+      "invalidDateRange": "Khoảng ngày không hợp lệ: Ngày kết thúc phải sau ngày bắt đầu"
+    },
+    "modal": {
+      "title": "Thêm vào Lịch",
+      "selectType": "Chọn loại",
+      "item": "Món đồ",
+      "outfit": "Trang phục",
+      "event": "Sự kiện",
+      "selectItem": "Chọn Món đồ",
+      "selectOutfit": "Chọn Trang phục",
+      "createEvent": "Tạo Sự kiện",
+      "eventName": "Tên sự kiện",
+      "eventNamePlaceholder": "ví dụ: Tiệc tối, Cuộc họp công việc",
+      "eventTime": "Thời gian",
+      "associatedGarments": "Món đồ liên quan",
+      "addGarment": "Thêm Món đồ/Trang phục",
+      "searchPlaceholder": "Tìm kiếm...",
+      "search": "Tìm kiếm...",
+      "noResults": "Không tìm thấy kết quả",
+      "loading": "Đang tải...",
+      "loadingData": "Đang tải dữ liệu...",
+      "selectItems": "Chọn Món đồ",
+      "selected": "đã chọn",
+      "itemsInOutfit": "{count} món đồ trong trang phục này",
+      "itemDefaultName": "Món đồ #{id}",
+      "outfitDefaultName": "Trang phục #{id}"
+    }
+  },
+  "profile": {
+    "viewProfile": "Xem hồ sơ",
+    "tabs": {
+      "statistics": "Thống kê",
+      "profileInfo": "Hồ sơ"
+    },
+    "statistics": {
+      "title": "Thống kê Tủ quần áo",
+      "loading": "Đang tải thống kê...",
+      "itemCount": "Trang phục",
+      "colors": "Màu sắc",
+      "itemsByCategory": "Trang phục theo Danh mục",
+      "itemsByColor": "Trang phục theo Màu sắc",
+      "itemsByWearCount": "Trang phục theo Số lần Mặc",
+      "noData": "Không có dữ liệu thống kê",
+      "errors": {
+        "title": "Lỗi tải thống kê",
+        "loadStats": "Không thể tải thống kê tủ quần áo"
+      }
+    },
+    "edit": "Chỉnh sửa profile",
+    "editTitle": "Chỉnh sửa Profile",
+    "noBio": "Chưa có tiểu sử. Nhấp vào Chỉnh sửa profile để thêm.",
+    "creditBalance": "Số dư Credit",
+    "credits": "credits",
+    "aiGenerationsRemaining": "lần tạo AI còn lại",
+    "buyMoreCredits": "Mua thêm Credits",
+    "accountInfo": "Thông tin tài khoản",
+    "email": "Email",
+    "displayName": "Tên hiển thị",
+    "displayNamePlaceholder": "Nhập tên hiển thị của bạn",
+    "displayNameHint": "Đây là cách tên của bạn sẽ xuất hiện với người khác.",
+    "notSet": "Chưa đặt",
+    "memberSince": "Thành viên từ",
+    "bodyMeasurements": "Số đo cơ thể",
+    "bmiDescription": "Theo dõi chỉ số BMI để hỗ trợ đề xuất kích thước quần áo",
+    "height": "Chiều cao",
+    "weight": "Cân nặng",
+    "noMeasurements": "Chưa có số đo nào được ghi lại",
+    "addMeasurements": "Thêm số đo của bạn",
+    "profilePicture": "Ảnh đại diện",
+    "uploadPhoto": "Tải ảnh lên",
+    "bio": "Tiểu sử",
+    "bioPlaceholder": "Hãy cho chúng tôi biết về bạn...",
+    "bioHint": "Mô tả ngắn cho profile của bạn. Tối đa 150 ký tự.",
+    "yourBMI": "BMI của bạn",
+    "measurementsHint": "Được sử dụng cho đề xuất kích thước quần áo được cá nhân hóa.",
+    "saveInfo": "Các thay đổi sẽ được lưu vào profile của bạn. Đảm bảo thông tin của bạn chính xác.",
+    "cancel": "Hủy",
+    "saving": "Đang lưu...",
+    "saveChanges": "Lưu thay đổi",
+    "success": {
+      "update": "Cập nhật profile thành công!",
+      "modelUpdated": "Mô hình mặc định đã được cập nhật!"
+    },
+    "myModel": "Mô hình của tôi",
+    "models": "mô hình",
+    "noModelPicture": "Chưa có mô hình",
+    "defaultModel": "Mô hình mặc định",
+    "active": "Kích hoạt",
+    "editModel": "Chỉnh sửa mô hình",
+    "selectModel": "Chọn Mô Hình",
+    "noModelsAvailable": "Không có mô hình nào",
+    "confirmModelChange": "Xác Nhận Thay Đổi Mô Hình",
+    "confirmModelChangeText": "Bạn có chắc chắn muốn đặt hình ảnh này làm mô hình mặc định không?",
+    "file": "Tệp",
+    "confirming": "Đang xác nhận...",
+    "confirm": "Xác Nhận",
+    "default": "Mặc định",
+    "errors": {
+      "invalidHeight": "Chiều cao phải là số hợp lệ lớn hơn 0",
+      "invalidWeight": "Cân nặng phải là số hợp lệ lớn hơn 0",
+      "updateFailed": "Không thể cập nhật profile. Vui lòng thử lại."
+    }
+  },
+  "notifications": {
+    "ITEM_CREATED": "Mục mới '{name}' đã được thêm vào tủ quần áo của bạn.",
+    "ITEM_UPDATED": "Mục '{name}' đã được cập nhật.",
+    "ITEM_DELETED": "Mục '{name}' đã được xóa khỏi tủ quần áo của bạn.",
+    "OUTFIT_CREATED": "Bộ trang phục mới '{name}' đã được thêm vào tủ quần áo của bạn!",
+    "OUTFIT_UPDATED": "Bộ trang phục '{name}' đã được cập nhật.",
+    "OUTFIT_DELETED": "Bộ trang phục '{name}' đã được xóa.",
+    "BOARD_CREATED": "Bảng mới '{name}' đã được tạo.",
+    "BOARD_UPDATED": "Bảng '{name}' đã được cập nhật.",
+    "BOARD_DELETED": "Bảng '{name}' đã được xóa.",
+    "TRYON_COMPLETED": "Thử đồ ảo với '{name}' đã hoàn tất thành công.",
+    "MODEL_CREATED": "Ảnh mô hình mới đã được tạo.",
+    "MODEL_DELETED": "Ảnh mô hình đã được xóa.",
+    "CREDIT_PURCHASED": "Bạn đã mua {credits} điểm.",
+    "CREDIT_USED": "{credits} điểm đã được sử dụng.",
+    "REFERRER_COMPLETED": "Người bạn giới thiệu '{referrerName}' đã hoàn tất các yêu cầu! +1 Giới hạn hàng ngày!",
+    "REFERREE_COMPLETED": "Bạn đã hoàn tất các yêu cầu! +1 Giới hạn hàng ngày!",
+    "PROFILE_UPDATED": "Hồ sơ của bạn đã được cập nhật thành công.",
+    "IMPORT_COMPLETED": "{count} mục đã được nhập thành công.",
+    "IMPORT_FAILED": "Nhập thất bại. Vui lòng kiểm tra tệp và thử lại.",
+    "CALENDAR_REMINDER": "Bạn có {garmentCount} trang phục, {outfitCount} bộ đồ, {eventCount} sự kiện cho hôm nay!",
+    "WELCOME": "Chào mừng đến với GuEmLaAI"
+  },
+  "referral": {
+    "intro": {
+      "step1": "Có mã giới thiệu từ bạn bè? Nhấp vào đây để gửi mã và nhận thưởng!",
+      "step2Verified": "Đây là liên kết giới thiệu duy nhất của bạn. Chia sẻ với bạn bè để nhận phần thưởng!",
+      "step2Unverified": "Hoàn thành các yêu cầu này để mở khóa liên kết giới thiệu và bắt đầu nhận phần thưởng!",
+      "step3": "Theo dõi tiến độ hoạt động trên nền tảng. Hoàn thành các hoạt động giúp xác minh tài khoản của bạn.",
+      "step4": "Xem thống kê giới thiệu của bạn và số phần thưởng đã nhận được.",
+      "step5": "Kiểm tra ai đã đăng ký bằng liên kết giới thiệu của bạn và theo dõi trạng thái xác minh của họ.",
+      "stepShare": "Chia sẻ liên kết giới thiệu của bạn qua mạng xã hội hoặc ứng dụng nhắn tin.",
+      "stepQR": "Tạo mã QR cho liên kết giới thiệu của bạn để chia sẻ dễ dàng."
+    },
+    "title": "Mời và Nhận thưởng với chương trình giới thiệu !",
+    "error": "Lỗi",
+    "loading": "Đang tải mã giới thiệu...",
+    "linkLabel": "LIÊN KẾT GIỚI THIỆU CỦA BẠN",
+    "linkCopied": "Đã sao chép liên kết!",
+    "copy": "Sao chép",
+    "share": "Chia sẻ liên kết",
+    "shareTitle": "Tham gia GuEmLaAI",
+    "shareText": "Khám phá nền tảng AI tuyệt vời này để nhận gợi ý trang phục!",
+    "viewQR": "Xem Mã QR",
+    "copied": "Đã sao chép!",
+    "referredBy": {
+      "label": "Được giới thiệu bởi",
+      "thankYou": "Cảm ơn bạn đã tham gia lời mời giới thiệu của họ!",
+      "bonusActivated": "Đã Kích Hoạt Thưởng"
+    },
+    "notVerified": {
+      "title": "Hoàn thành yêu cầu để mở khóa chương trình giới thiệu",
+      "subtitle": "Bạn cần đáp ứng các yêu cầu cụ thể để truy cập các tính năng giới thiệu"
+    },
+    "requirements": {
+      "items": {
+        "title": "Thêm món đồ",
+        "subtitle": "Tối thiểu {count} món đồ"
+      },
+      "outfits": {
+        "title": "Tạo Bộ Quần Áo",
+        "subtitle": "Tối thiểu {count} bộ quần áo"
+      },
+      "vto": {
+        "title": "Dùng Phối đồ AI (Virtual Try-On)",
+        "subtitle": "Tối thiểu {count} lần sử dụng"
+      }
+    },
+    "activity": {
+      "title": "Hoạt động của bạn",
+      "items": "Món đồ đã tạo",
+      "itemsUnit": "món đồ",
+      "outfits": "Bộ quần áo đã tạo",
+      "outfitsUnit": "bộ quần áo",
+      "vto": "Số lần dùng Phối đồ AI",
+      "vtoUnit": "lần dùng",
+      "requirementMet": "✓ Đạt yêu cầu",
+      "moreNeeded": "Cần thêm {count}"
+    },
+    "stats": {
+      "total": "Tổng lượt giới thiệu",
+      "completed": "Hoàn thành",
+      "pending": "Đang chờ",
+      "allTime": "Tất cả",
+      "active": "Đang hoạt động",
+      "awaiting": "Đang chờ kích hoạt",
+      "totalEarned": "Tổng đã nhận",
+      "perPersonLimit": "Giới hạn/người",
+      "usageLimit": "Giới hạn sử dụng đã nhận",
+      "perReferral": "Mỗi lượt giới thiệu"
+    },
+    "tabs": {
+      "history": "Lịch sử giới thiệu",
+      "rewards": "Theo dõi phần thưởng"
+    },
+    "table": {
+      "name": "Tên",
+      "date": "Ngày tham gia",
+      "status": "Trạng thái",
+      "reward": "Phần thưởng"
+    },
+    "empty": {
+      "title": "Chưa có lượt giới thiệu nào",
+      "subtitle": "Chia sẻ liên kết giới thiệu để bắt đầu nhận thưởng!"
+    },
+    "rewards": {
+      "total": "Tổng phần thưởng đã nhận",
+      "usageLimitCap": "Giới hạn sử dụng",
+      "from": "Từ {count} lượt giới thiệu hoàn thành",
+      "empty": {
+        "title": "Chưa có lượt giới thiệu hoàn thành",
+        "subtitle": "Phần thưởng của bạn sẽ xuất hiện ở đây khi lượt giới thiệu hoàn thành."
+      }
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "q1": {
+        "question": "Tôi nhận được gì khi giới thiệu?",
+        "answer": "Bạn nhận +1 Giới hạn sử dụng cho mỗi lượt giới thiệu thành công (tối đa 10). Điều này tăng giới hạn sử dụng hàng ngày cho các tính năng Phối đồ AI, Tạo Model và Tạo Item."
+      },
+      "q2": {
+        "question": "Thế nào là giới thiệu thành công?",
+        "answer": "Lượt giới thiệu hoàn thành khi bạn bè đăng ký bằng liên kết của bạn VÀ tạo bài đăng outfit đầu tiên."
+      },
+      "q3": {
+        "question": "Khi nào tôi nhận được phần thưởng?",
+        "answer": "Giới hạn sử dụng của bạn được tăng ngay lập tức khi người được giới thiệu hoàn thành outfit đầu tiên."
+      }
+    },
+    "qrModal": {
+      "title": "Mã QR giới thiệu của bạn",
+      "linkLabel": "LIÊN KẾT GIỚI THIỆU",
+      "download": "Tải mã QR",
+      "info": "Chia sẻ mã QR này với bạn bè. Họ có thể quét để tham gia với mã giới thiệu của bạn."
+    },
+    "manualCode": {
+      "title": "Nhập mã giới thiệu",
+      "description": "Nhập mã giới thiệu từ bạn bè để nhận thưởng.",
+      "label": "Mã giới thiệu",
+      "placeholder": "Nhập mã tại đây...",
+      "submit": "Gửi mã",
+      "required": "Vui lòng nhập mã giới thiệu",
+      "success": "Áp dụng mã giới thiệu thành công!",
+      "error": "Không thể áp dụng mã giới thiệu"
+    }
+  }
+}

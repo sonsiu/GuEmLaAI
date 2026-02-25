@@ -1,0 +1,506 @@
+{
+  "category": {
+    "Top": [
+      {
+        "name": "Short sleeved T-shirt",
+        "name_vn": "Áo phông tay ngắn",
+        "category_code": "top_Short_sleeved_T-shirt"
+      },
+      {
+        "name": "Long sleeved T-shirt",
+        "name_vn": "Áo phông tay dài",
+        "category_code": "top_Long_sleeved_T-shirt"
+      },
+      {
+        "name": "Short sleeved shirt",
+        "name_vn": "Áo sơ mi tay ngắn",
+        "category_code": "top_Short_sleeved_shirt"
+      },
+      {
+        "name": "Long sleeved shirt",
+        "name_vn": "Áo sơ mi tay dài",
+        "category_code": "top_Long_sleeved_shirt"
+      },
+      {
+        "name": "Polo shirt",
+        "name_vn": "Áo polo",
+        "category_code": "top_Polo shirt"
+      },
+      {
+        "name": "Tank top",
+        "name_vn": "Áo thể thao",
+        "category_code": "top_Tank top"
+      },
+      {
+        "name": "Hoodie",
+        "name_vn": "Áo hoodie",
+        "category_code": "top_Hoodie"
+      },
+      {
+        "name": "Cardigan/Sweater",
+        "name_vn": "Cardigan/Áo len",
+        "category_code": "top_Cardigan_Sweater"
+      }
+    ],
+    "Outerwear": [
+      {
+        "name": "Jacket",
+        "name_vn": "Áo khoác",
+        "category_code": "outerwear_Jacket"
+      },
+      {
+        "name": "Coat",
+        "name_vn": "Áo khoác dài",
+        "category_code": "outerwear_Coat"
+      },
+      {
+        "name": "Puffer",
+        "name_vn": "Áo khoác lông vũ",
+        "category_code": "outerwear_Puffer"
+      },
+      {
+        "name": "Hoodie & Sweatshirt",
+        "name_vn": "Hoodie & Áo nỉ",
+        "category_code": "outerwear_Hoodie_Sweatshirt"
+      },
+      {
+        "name": "Blazer",
+        "name_vn": "Áo blazer",
+        "category_code": "outerwear_Blazer"
+      },
+      {
+        "name": "Windbreaker",
+        "name_vn": "Áo gió",
+        "category_code": "outerwear_Windbreaker"
+      }
+    ],
+    "Footwear": [
+      {
+        "name": "Sneakers",
+        "name_vn": "Giày thể thao",
+        "category_code": "footwear_Sneakers"
+      },
+      {
+        "name": "Sandals & Slippers",
+        "name_vn": "Dép/Sandal",
+        "category_code": "footwear_Sandals_Slippers"
+      },
+      {
+        "name": "Heels",
+        "name_vn": "Giày cao gót",
+        "category_code": "footwear_Heels"
+      },
+      {
+        "name": "Boots",
+        "name_vn": "Giày cổ cao",
+        "category_code": "footwear_Boots"
+      },
+      {
+        "name": "Formal Shoes",
+        "name_vn": "Giày lịch sự",
+        "category_code": "footwear_Formal"
+      }
+    ],
+    "Bottom": [
+      {
+        "name": "Jeans",
+        "name_vn": "Quần jean",
+        "category_code": "bottom_Jeans"
+      },
+      {
+        "name": "Shorts",
+        "name_vn": "Quần short",
+        "category_code": "bottom_Shorts"
+      },
+      {
+        "name": "Trousers & Pants",
+        "name_vn": "Quần dài",
+        "category_code": "bottom_Trousers"
+      },
+      {
+        "name": "Skirt",
+        "name_vn": "Váy",
+        "category_code": "bottom_Skirt"
+      },
+      {
+        "name": "Athletic & Lounge",
+        "name_vn": "Quần thể thao & Lounge",
+        "category_code": "bottom_Athletic_Lounge"
+      }
+    ],
+    "Bag": [
+      {
+        "name": "Backpack",
+        "name_vn": "Balo",
+        "category_code": "bag_Backpack"
+      },
+      {
+        "name": "Shoulder & Crossbody bag",
+        "name_vn": "Túi đeo vai & Túi đeo chéo",
+        "category_code": "bag_Shoulder_Crossbody"
+      },
+      {
+        "name": "Handbag",
+        "name_vn": "Túi xách tay",
+        "category_code": "bag_Handbag"
+      },
+      {
+        "name": "Tote bag",
+        "name_vn": "Túi tote",
+        "category_code": "bag_Tote"
+      },
+      {
+        "name": "Wallet",
+        "name_vn": "Ví",
+        "category_code": "bag_Wallet"
+      }
+    ],
+    "Accessory": [
+      {
+        "name": "Hat/Cap",
+        "name_vn": "Mũ/Nón",
+        "category_code": "accessory_Cap"
+      },
+      {
+        "name": "Belt",
+        "name_vn": "Dây lưng",
+        "category_code": "accessory_Belt"
+      },
+      {
+        "name": "Scarf",
+        "name_vn": "Khăn quàng cổ",
+        "category_code": "accessory_Scarf"
+      },
+      {
+        "name": "Watch",
+        "name_vn": "Đồng hồ",
+        "category_code": "accessory_Watch"
+      },
+      {
+        "name": "Sunglasses",
+        "name_vn": "Kính mát",
+        "category_code": "accessory_Sunglasses"
+      },
+      {
+        "name": "Earrings/Necklace/Ring",
+        "name_vn": "Bông tai/Dây chuyền/Nhẫn",
+        "category_code": "accessory_Jewellery"
+      }
+    ]
+  },
+  "colors": [
+    {
+      "name": "Red",
+      "name_vn": "Đỏ",
+      "hex": "#FF0000"
+    },
+    {
+      "name": "Pink",
+      "name_vn": "Hồng",
+      "hex": "#FFC0CB"
+    },
+    {
+      "name": "Hot Pink",
+      "name_vn": "Hồng đậm",
+      "hex": "#FF69B4"
+    },
+    {
+      "name": "Light Pink",
+      "name_vn": "Hồng nhạt",
+      "hex": "#FFB6C1"
+    },
+    {
+      "name": "Bordeaux",
+      "name_vn": "Rượu vang đỏ",
+      "hex": "#5C001F"
+    },
+    {
+      "name": "Magenta",
+      "name_vn": "Đỏ tím",
+      "hex": "#FF00FF"
+    },
+    {
+      "name": "Purple",
+      "name_vn": "Tím",
+      "hex": "#800080"
+    },
+    {
+      "name": "Lavender",
+      "name_vn": "Tím lavender",
+      "hex": "#E6E6FA"
+    },
+    {
+      "name": "Orange",
+      "name_vn": "Cam",
+      "hex": "#FFA500"
+    },
+    {
+      "name": "Coral",
+      "name_vn": "San hô",
+      "hex": "#FF7F50"
+    },
+    {
+      "name": "Neon Orange",
+      "name_vn": "Cam neon",
+      "hex": "#FF5F1F"
+    },
+    {
+      "name": "Yellow",
+      "name_vn": "Vàng",
+      "hex": "#FFFF00"
+    },
+    {
+      "name": "Light Yellow",
+      "name_vn": "Vàng nhạt",
+      "hex": "#FFFFE0"
+    },
+    {
+      "name": "Mustard",
+      "name_vn": "Vàng mù tạt",
+      "hex": "#FFDB58"
+    },
+    {
+      "name": "Neon Yellow",
+      "name_vn": "Vàng neon",
+      "hex": "#FFF700"
+    },
+    {
+      "name": "Green",
+      "name_vn": "Xanh lá",
+      "hex": "#008000"
+    },
+    {
+      "name": "Light Green",
+      "name_vn": "Xanh lá nhạt",
+      "hex": "#90EE90"
+    },
+    {
+      "name": "Emerald Green",
+      "name_vn": "Xanh lục bảo",
+      "hex": "#50C878"
+    },
+    {
+      "name": "Neon Green",
+      "name_vn": "Xanh lá neon",
+      "hex": "#39FF14"
+    },
+    {
+      "name": "Khaki",
+      "name_vn": "Kaki",
+      "hex": "#F0E68C"
+    },
+    {
+      "name": "Olive",
+      "name_vn": "Xanh ô liu",
+      "hex": "#808000"
+    },
+    {
+      "name": "Blue",
+      "name_vn": "Xanh dương",
+      "hex": "#0000FF"
+    },
+    {
+      "name": "Baby Blue",
+      "name_vn": "Xanh dương nhạt",
+      "hex": "#89CFF0"
+    },
+    {
+      "name": "Light Blue",
+      "name_vn": "Xanh dương nhạt",
+      "hex": "#ADD8E6"
+    },
+    {
+      "name": "Turquoise",
+      "name_vn": "Xanh ngọc lam",
+      "hex": "#40E0D0"
+    },
+    {
+      "name": "Navy",
+      "name_vn": "Xanh hải quân",
+      "hex": "#000080"
+    },
+    {
+      "name": "Royal Blue",
+      "name_vn": "Xanh hoàng gia",
+      "hex": "#4169E1"
+    },
+    {
+      "name": "Neon Blue",
+      "name_vn": "Xanh dương neon",
+      "hex": "#4D4DFF"
+    },
+    {
+      "name": "Brown",
+      "name_vn": "Nâu",
+      "hex": "#A52A2A"
+    },
+    {
+      "name": "Tan",
+      "name_vn": "Nâu nhạt",
+      "hex": "#D2B48C"
+    },
+    {
+      "name": "Beige",
+      "name_vn": "Be",
+      "hex": "#F5F5DC"
+    },
+    {
+      "name": "Cream",
+      "name_vn": "Kem",
+      "hex": "#FFFDD0"
+    },
+    {
+      "name": "Ecru",
+      "name_vn": "Ecru",
+      "hex": "#C2B280"
+    },
+    {
+      "name": "White",
+      "name_vn": "Trắng",
+      "hex": "#FFFFFF"
+    },
+    {
+      "name": "Off-White",
+      "name_vn": "Trắng kem",
+      "hex": "#FAF9F6"
+    },
+    {
+      "name": "Grey",
+      "name_vn": "Xám",
+      "hex": "#808080"
+    },
+    {
+      "name": "Light Gray",
+      "name_vn": "Xám nhạt",
+      "hex": "#D3D3D3"
+    },
+    {
+      "name": "Charcoal",
+      "name_vn": "Xám than",
+      "hex": "#36454F"
+    },
+    {
+      "name": "Black",
+      "name_vn": "Đen",
+      "hex": "#000000"
+    },
+    {
+      "name": "Gold",
+      "name_vn": "Vàng kim",
+      "hex": "#FFD700"
+    },
+    {
+      "name": "Silver",
+      "name_vn": "Bạc",
+      "hex": "#C0C0C0"
+    },
+    {
+      "name": "Copper",
+      "name_vn": "Đồng",
+      "hex": "#B87333"
+    },
+    {
+      "name": "Denim",
+      "name_vn": "Denim",
+      "hex": "#1560BD"
+    },
+    {
+      "name": "Black Denim",
+      "name_vn": "Denim đen",
+      "hex": "#2B2B2B"
+    },
+    {
+      "name": "Miscellaneous",
+      "name_vn": "Màu khác",
+      "hex": "linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)"
+    },
+    {
+      "name": "No Color",
+      "name_vn": "Không màu",
+      "hex": "transparent"
+    }
+  ],
+  "sizes": {
+    "clothing": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "1X",
+      "2X",
+      "3X",
+      "4XL",
+      "5XL",
+      "6XL",
+      "S/M",
+      "M/L"
+    ],
+    "footwear": [
+      "EU 35",
+      "EU 36",
+      "EU 37",
+      "EU 38",
+      "EU 39",
+      "EU 40",
+      "EU 41",
+      "EU 42",
+      "EU 43",
+      "EU 44",
+      "EU 45",
+      "EU 46"
+    ],
+    "freeSize": [
+      "One size",
+      "Free size",
+      "Adjustable",
+      "No size",
+      "Other"
+    ]
+  },
+  "seasons": [
+    "Spring",
+    "Summer",
+    "Autumn",
+    "Winter",
+    "All year round",
+    "No season"
+  ],
+  "occasions": [
+    "Casual",
+    "Formal",
+    "Business",
+    "Party",
+    "Sports",
+    "Beach",
+    "Workout",
+    "Date Night",
+    "Wedding",
+    "Travel",
+    "Office",
+    "Concert",
+    "Festival",
+    "Clubbing",
+    "Bar",
+    "Gym",
+    "Yoga",
+    "Outdoor",
+    "Picnic",
+    "Gala",
+    "Graduation",
+    "Birthday",
+    "Anniversary",
+    "Interview",
+    "Presentation",
+    "Conference",
+    "Pajamas",
+    "Swimwear",
+    "Ski Trip",
+    "Mountain",
+    "Honeymoon",
+    "Resort",
+    "Other"
+  ]
+}
